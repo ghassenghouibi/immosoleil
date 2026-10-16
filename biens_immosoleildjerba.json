@@ -1,0 +1,2512 @@
+{
+  "source": "https://immosoleildjerba.com",
+  "date_extraction": "2026-10-16T10:36:13.779Z",
+  "nb_biens": 29,
+  "biens": [
+    {
+      "id": 3907,
+      "nom": "Villa Chbabya",
+      "slug": "villa-chbabya",
+      "url": "https://immosoleildjerba.com/produit/villa-chbabya/",
+      "categories": [
+        "Vente",
+        "Villa avec piscine"
+      ],
+      "tags": [],
+      "prix": {
+        "montant": 650000,
+        "min": null,
+        "max": null,
+        "devise": "TND",
+        "affichage": "د.ت 650.000"
+      },
+      "points_cles": [],
+      "resume": "🏡 VILLA À VENDRE – CHBABYA\n✨ Une belle opportunité à ne pas manquer !\nSituée dans un quartier calme et agréable à Chbabya, cette jolie villa offre un cadre de vie confortable, moderne et convivial.\n🌿 Elle se compose de :\n• 🛋️ Un grand salon lumineux, ouvert sur l’espace piscine\n• 🍽️ Une cuisine ouverte sur le salon, idéale pour profiter pleinement des moments en famille\n• 🛏️ Deux chambres\n• 🚿 Une salle d’eau commune\n• 🛌 Une suite parentale, avec un accès direct à l’espace extérieur\n• 🏊‍♀️ Un espace extérieur avec piscine, parfait pour se détendre et profiter des belles journées\n📐 Surface du terrain : 413 m²\n📜 Titre bleu global\n📍 Emplacement : Chbabya\n💰 Prix : 650 000 DT\n🌟 Une villa idéale pour une résidence principale ou un investissement.\n📞 Contactez-nous pour plus d’informations ou pour organiser une visite.",
+      "description": "Villa à vendre avec piscine à Chbabya 📍 Chbabya – Djerba, Tunisie\nNotre agence vous propose cette jolie villa située dans un quartier calme et agréable à Chbabya. Elle offre un cadre de vie confortable, moderne et convivial, idéal aussi bien pour une résidence principale que pour un investissement immobilier.\n🌿 Elle se compose de :\n🛋️ Un grand salon lumineux, ouvert sur l’espace piscine\n🍽️ Une cuisine ouverte sur le salon, idéale pour profiter pleinement des moments en famille\n🛏️ Deux chambres\n🚿 Une salle d’eau commune\n🛌 Une suite parentale, avec un accès direct à l’espace extérieur\n🏊‍♀️ Un espace extérieur avec piscine, parfait pour se détendre et profiter des belles journées\n📌 Points forts :\n🏡 Villa confortable et conviviale\n🏊‍♀️ Piscine privée\n🌿 Espace extérieur agréable\n📍 Quartier calme à Chbabya\n📜 Titre bleu global\n💼 Excellente opportunité d’investissement\nCaractéristiques :\n📐 Terrain : 413 m²\n📜 Titre bleu global\n📍 Emplacement : Chbabya\n💰 Prix : 650 000 DT\n🌟 Cette villa représente un choix idéal aussi bien pour une résidence principale que pour un investissement immobilier à Djerba.\n📞 Contactez-nous pour plus d’informations ou pour organiser une visite.\nAjoutez votre titre ici",
+      "attributs": [],
+      "note_moyenne": 0,
+      "nb_avis": 0,
+      "disponible": true,
+      "photos": [
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/10/chbabya1-1.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/10/chbabya1-1-450x450.webp",
+          "alt": "chbabya1"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/10/chbabya1.webp",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/10/834720501_1604827401397231_3142283077753202465_n-3.webp",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/10/838946854_962935612945447_867284339187840169_n.webp",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/10/839959866_1508258421055169_7321021404177385352_n.webp",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/10/chbabya2.webp",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/10/830871474_1454016106576365_5423243632386255655_n.webp",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 3901,
+      "nom": "Villa Jouria",
+      "slug": "villa-jouria-2",
+      "url": "https://immosoleildjerba.com/produit/villa-jouria-2/",
+      "categories": [],
+      "tags": [],
+      "prix": {
+        "montant": null,
+        "min": null,
+        "max": null,
+        "devise": "TND",
+        "affichage": ""
+      },
+      "points_cles": [],
+      "resume": "Villa de luxe à Djerba, située dans un quartier calme et prestigieux.\nVilla Jouria offre un cadre élégant, confortable et privé,\nidéal pour une location longue durée.\nElle dispose de 3 suites avec salles de bain privatives,\nd’une cuisine moderne entièrement équipée, de la climatisation, TV et Wi-Fi haut débit.\nÀ l’extérieur, profitez d’une grande piscine privée, d’un jacuzzi,\nd’une cascade et d’un espace barbecue.\nParfaite pour une location longue durée à Djerba,\ndans un environnement privé et sans vis-à-vis.\n📅 Location longue durée : octobre à décembre\n💰 Tarif : 4 000 DT / mois\n📞 Pour plus d’informations ou pour réserver directement :",
+      "description": "📍 Djerba – Quartier résidentiel calme\nVilla Jouria – Villa de luxe avec piscine privée à Djerba\nDescription :\nLa Villa Jouria vous accueille dans un cadre luxueux, calme et raffiné au cœur de Djerba. Idéale pour des vacances en famille ou entre amis, elle offre confort, intimité et élégance dans un environnement sans vis-à-vis.\nComposition intérieure :\nUn salon spacieux et lumineux avec espace repas\nUne cuisine moderne entièrement équipée (four, micro-ondes, lave-vaisselle, machine à café…)\n3 suites confortables avec salles de bain privatives\nEspaces de vie lumineux et décorés avec goût\nClimatisation, TV et Wi-Fi haut débit dans toute la villa\nÀ l’extérieur :\nGrande piscine privée (14m/4)\nJacuzzi intégré pour moments de détente\nCascade d’eau et éclairage LED pour ambiance nocturne\nEspace barbecue convivial\nJardin aménagé et espaces détente\nEnvironnement calme et sans vis-à-vis\nStationnement :\nParking privé sécurisé sur place\nEmplacement :\nQuartier résidentiel calme – Djerba\nProche commodités et plages en voiture",
+      "attributs": [],
+      "note_moyenne": 0,
+      "nb_avis": 0,
+      "disponible": true,
+      "photos": [
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes1-1024x473.webp",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes4-1024x473.webp",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes9-1024x473.webp",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes3-1024x473.webp",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes-1024x473.webp",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes2-1024x473.webp",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 3873,
+      "nom": "Villa Zina",
+      "slug": "villa-zina",
+      "url": "https://immosoleildjerba.com/produit/villa-zina/",
+      "categories": [
+        "Location Annuelle",
+        "Location Vacances",
+        "Villa avec piscine",
+        "Villa meublée"
+      ],
+      "tags": [],
+      "prix": {
+        "montant": 2000,
+        "min": null,
+        "max": null,
+        "devise": "TND",
+        "affichage": "د.ت 2.000"
+      },
+      "points_cles": [
+        "8 voyageurs",
+        "4 chambres",
+        "Salon",
+        "Piscine privée",
+        "Entrée voiture",
+        "Environnement calme",
+        "Sans vis-à-vis"
+      ],
+      "resume": "h2>Villa Zina à louer à l’année à Djerba\nÀ louer à l’année, Villa Zina située à Djerba, dans un quartier calme et agréable. Cette villa confortable à l’étage se compose d’un salon et de 4 chambres à coucher. Elle dispose également d’une piscine et d’une entrée pour voiture.\nIdéale pour une famille à la recherche d’une villa confortable avec piscine à louer à Djerba, dans un environnement calme et paisible.\n📌 Loyer : 2 000 DT / mois\n📍 Localisation : Djerba\n🏡 4 chambres | Salon | Piscine | Entrée voiture",
+      "description": "8 voyageurs · 4 chambres · Salon · Piscine privée · Entrée voiture · Environnement calme · Sans vis-à-vis\n📍 Djerba\nVilla Zina – Villa à louer avec piscine à Djerba\nDescription\nDécouvrez Villa Zina, une villa confortable située à Djerba, idéale pour les familles à la recherche d’un séjour agréable, calme et paisible. La villa dispose de beaux espaces de vie et d’un extérieur agréable avec piscine privée.\nSituée dans un environnement tranquille, Villa Zina à Djerba offre tout le confort nécessaire pour profiter pleinement de votre séjour en famille ou entre amis.\nComposition intérieure\n4 chambres confortables\n4 chambres à coucher\nSalon confortable et lumineux\nEspaces adaptés aux familles\nEspaces de vie\nSalon spacieux\nClimatisation\nEspaces de vie confortables\nÀ l’extérieur\nPiscine privée\nEspace extérieur agréable\nEntrée privée pour voiture\nParking privé\nEnvironnement calme et paisible\nEmplacement\n📍 Djerba\n📍 Quartier calme et agréable\n📍 Environnement paisible\n📍 Idéal pour un séjour en famille\nCapacité & séjour\n👥 Capacité : jusqu’à 8 personnes\n🛏️ 4 chambres\n🏡 Idéale pour familles et groupes\nLocation longue durée\nVilla Zina est également disponible à la location pour un long séjour, hors mois d’août.\n💰 Loyer : 2 000 DT / mois\nÉquipements\n❄️ Climatisation\n🏊 Piscine privée\n🛋️ Salon\n🛏️ 4 chambres\n🚗 Entrée voiture\n🅿️ Parking privé\n🌿 Espace extérieur\n🏡 Villa confortable\n☀️ Espace détente\n🔒 Environnement privé\n📞 Contact & réservation\nPour plus d’informations concernant Villa Zina à Djerba, les disponibilités ou une visite, contactez-nous directement sur WhatsApp.\nLocalisation:",
+      "attributs": [],
+      "note_moyenne": 0,
+      "nb_avis": 0,
+      "disponible": true,
+      "photos": [
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/10/zina1-1.jpg",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/10/zina1-1-450x450.jpg",
+          "alt": "villa zina"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/10/zina15-1024x768.jpg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/10/zina14-1024x768.jpg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/10/zina7-1-1024x768.jpg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/10/zina10-1024x768.jpg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/10/zina5-1024x768.jpg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/10/zina9-1024x768.jpg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 3857,
+      "nom": "Villa El Kout",
+      "slug": "villa-el-kout",
+      "url": "https://immosoleildjerba.com/produit/villa-el-kout/",
+      "categories": [
+        "Location Annuelle",
+        "Villa avec piscine",
+        "Villa meublée"
+      ],
+      "tags": [],
+      "prix": {
+        "montant": 1500,
+        "min": null,
+        "max": null,
+        "devise": "TND",
+        "affichage": "د.ت 1.500"
+      },
+      "points_cles": [
+        "Location annuelle",
+        "3 chambres",
+        "Salon",
+        "Piscine privée",
+        "Jardin",
+        "Parking privé",
+        "Quartier calme",
+        "Entrée voiture"
+      ],
+      "resume": "Villa à louer à l’année à Djerba Khazroun\nÀ louer à l’année, villa située à Djerba Khazroun, dans un quartier calme et agréable. Elle se compose d’un salon, de 3 chambres à coucher et offre de beaux espaces extérieurs avec piscine et jardin. La propriété dispose également d’une entrée pour voiture.\nIdéale pour une famille à la recherche d’un logement confortable et paisible à Djerba.\n📌 Loyer : 1 500 DT / mois\n📍 Localisation : Djerba – Khazroun\n🏡 3 chambres | Piscine | Jardin | Parking",
+      "description": "Location annuelle · 3 chambres · Salon · Piscine privée · Jardin · Parking privé · Quartier calme · Entrée voiture\n📍 Djerba – Khazroun\nVilla à louer à l’année à Djerba Khazroun – Piscine privée et jardin\nDescription\nDécouvrez cette agréable villa à louer à l’année à Djerba Khazroun, située dans un quartier calme et agréable. La villa offre un cadre de vie confortable et paisible, idéal pour une famille souhaitant s’installer à Djerba à l’année.\nLa propriété dispose d’une piscine privée, d’un jardin et d’une entrée permettant de stationner une voiture.\nComposition intérieure\n3 chambres à coucher\n3 chambres confortables\nSalon spacieux\nEspace de vie agréable\nEspaces de vie\nSalon\n3 chambres à coucher\nCuisine\nEspaces adaptés à une vie familiale\nÀ l’extérieur\nPiscine privée\nJardin\nEntrée privée pour voiture\nEspace extérieur agréable\nQuartier calme\nEmplacement\n📍 Djerba – Khazroun\n📍 Quartier calme et résidentiel\n📍 Environnement paisible\n📍 Idéal pour une installation à l’année\nLocation annuelle\n💰 Loyer : 1 500 DT / mois\n👨‍👩‍👧‍👦 Idéale pour une famille\n🏡 Location à l’année\n📍 Djerba – Khazroun\nCaractéristiques\n🛏️ 3 chambres\n🛋️ Salon\n🏊 Piscine privée\n🌿 Jardin\n🚗 Parking / entrée voiture\n📍 Djerba – Khazroun\n🏡 Location annuelle\n🌳 Quartier calme\nContact & visite\n📞 Pour plus d’informations ou pour organiser une visite, contactez-nous directement sur WhatsApp.\nLocalisation :",
+      "attributs": [],
+      "note_moyenne": 0,
+      "nb_avis": 0,
+      "disponible": true,
+      "photos": [
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/09/el-kout1-4.jpg",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/09/el-kout1-4-450x450.jpg",
+          "alt": "el kout1"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/09/el-kout2-768x1024.jpg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/09/el-kout14-768x1024.jpg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/09/el-kout5-768x1024.jpg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/09/el-kout6-768x1024.jpg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/09/el-kout8-768x1024.jpg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/09/el-kout11-768x1024.jpg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 3780,
+      "nom": "Villa non finie à vendre à Beni Maaguel – Terrain 700 m² avec vue mer",
+      "slug": "villa-non-finie-a-vendre-a-beni-maaguel-terrain-700-m%c2%b2-avec-vue-mer",
+      "url": "https://immosoleildjerba.com/produit/villa-non-finie-a-vendre-a-beni-maaguel-terrain-700-m%c2%b2-avec-vue-mer/",
+      "categories": [
+        "Vente",
+        "Villas"
+      ],
+      "tags": [],
+      "prix": {
+        "montant": 170000,
+        "min": null,
+        "max": null,
+        "devise": "TND",
+        "affichage": "د.ت 170.000"
+      },
+      "points_cles": [
+        "80 m² habitables",
+        "Terrain 700 m²",
+        "Salon",
+        "1 chambre",
+        "Vue mer",
+        "Quartier calme"
+      ],
+      "resume": "Découvrez cette villa non finie à vendre à Beni Maaguel, implantée sur un terrain de 700 m². Profitez d’un environnement calme, d’une vue sur mer depuis le toit et d’un fort potentiel d’aménagement.\n💰 Prix : 170 000 DT",
+      "description": "80 m² habitables · Terrain 700 m² · Salon · 1 chambre · Vue mer · Quartier calme\n📍 Beni Maaguel – Djerba\nVilla non finie à vendre à Beni Maaguel\nDécouvrez cette villa non finie située à Beni Maaguel, dans un environnement calme et résidentiel. Édifiée sur un vaste terrain de 700 m², cette propriété représente une excellente opportunité pour concrétiser votre projet de résidence principale, de maison de vacances ou d’investissement immobilier à Djerba.\nSon principal atout est sa vue dégagée sur la mer depuis le toit, offrant un cadre agréable et un fort potentiel d’aménagement.\nComposition\nSalon\n1 chambre\nSurface couverte : 80 m²\nExtérieur\nTerrain de 700 m²\nGrand jardin à aménager\nVue mer depuis la terrasse/toit\nQuartier calme et résidentiel\nEmplacement\n📍 Beni Maaguel – Djerba\n📍 Environnement calme\n📍 Proche des commodités\n📍 Vue mer\nInformations\n» Prix : 170 000 DT «\n📞 Contact : +216 25 509 998\nPoints forts\n✔ Terrain de 700 m²\n✔ Vue mer\n✔ Quartier résidentiel\n✔ Excellent potentiel d’aménagement\n✔ Idéal pour résidence principale ou investissement\nhttps://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-non-finie.mp4\nLocalisation:",
+      "attributs": [],
+      "note_moyenne": 0,
+      "nb_avis": 0,
+      "disponible": true,
+      "photos": [
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-non-finie5.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-non-finie5-450x450.webp",
+          "alt": "Villa non finie"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-non-finie1.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-non-finie1-450x450.webp",
+          "alt": "Villa non finie"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-non-finie2.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-non-finie2-450x450.webp",
+          "alt": "Villa non finie"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-non-finie3.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-non-finie3-450x450.webp",
+          "alt": "Villa non finie"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-non-finie4.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-non-finie4-450x450.webp",
+          "alt": "Villa non finie"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-non-finie5.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-non-finie5-450x450.webp",
+          "alt": "Villa non finie"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        }
+      ],
+      "videos": [
+        "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-non-finie.mp4"
+      ]
+    },
+    {
+      "id": 3733,
+      "nom": "Villa Alba – Villa haut standing à Djerba",
+      "slug": "villa-alba-villa-haut-standing-a-djerba",
+      "url": "https://immosoleildjerba.com/produit/villa-alba-villa-haut-standing-a-djerba/",
+      "categories": [
+        "Location Vacances"
+      ],
+      "tags": [],
+      "prix": {
+        "montant": 250,
+        "min": null,
+        "max": null,
+        "devise": "TND",
+        "affichage": "د.ت 250"
+      },
+      "points_cles": [
+        "7 voyageurs",
+        "3 chambres",
+        "2 suites parentales",
+        "3 lits simples",
+        "Piscine privée",
+        "Pergola",
+        "Jeux pour enfants",
+        "Parking privé",
+        "Sans vis-à-vis"
+      ],
+      "resume": "Découvrez Villa Alba, une villa haut standing située à Djerba. Avec sa piscine privée, ses 2 suites parentales, ses équipements modernes et ses espaces de détente, elle est idéale pour des vacances en famille ou entre amis.\n📌 Tarif à partir de 250 DT / nuit",
+      "description": "7 voyageurs · 3 chambres · 2 suites parentales · 3 lits simples · Piscine privée · Pergola · Jeux pour enfants · Parking privé · Sans vis-à-vis\n📍 Djerba\nVilla Alba – Villa haut standing avec piscine privée à Djerba\nDescription\nDécouvrez Villa Alba, une magnifique villa haut standing entièrement neuve, conçue pour offrir une expérience de vacances alliant élégance, confort et modernité. Idéale pour les familles et les groupes d’amis, cette propriété vous accueille dans un environnement paisible où chaque détail a été pensé pour rendre votre séjour inoubliable.\nGrâce à ses prestations premium, sa piscine privée et ses espaces de détente, Villa Alba est l’adresse parfaite pour profiter pleinement de vos vacances à Djerba.\nComposition intérieure\n3 chambres confortables\n2 suites parentales avec salle de bain privative\n1 chambre avec 3 lits simples\nCouchages\n2 lits doubles\n3 lits simples\nEspaces de vie\nSalon spacieux et lumineux\nCuisine moderne entièrement équipée\nSalle à manger conviviale\nClimatisation dans toutes les pièces (y compris la cuisine)\nConnexion Wi-Fi haut débit\nTV avec chaînes IPTV\nLave-vaisselle\nLave-linge\nVaisselle complète\nÀ l’extérieur\nPiscine privée\nTerrasse aménagée\nPergola ombragée\nTransats et grands matelas\nDouche extérieure\nToilettes extérieures\nJeux pour enfants\nParking privé avec abri voiture\nEspace détente\nEmplacement\n📍 Djerba\n📍 Quartier calme\n📍 À quelques minutes des plages\n📍 Proche des commerces et commodités\nCapacité & séjour\n👥 Capacité maximale : 7 personnes\n🛏️ Idéale pour familles et groupes d’amis\nRègles de la villa\n🚭 Non-fumeur\n🍷 Alcool non autorisé (si applicable)\n🐾 Animaux non autorisés (si applicable)\n🎉 Événements non autorisés (si applicable)\nInfos pratiques\n🕒 Check-in : À confirmer\n🕙 Check-out : À confirmer\n📩 Disponible sur demande (tarifs & disponibilités)\nÉquipements\n❄️ Climatisation\n📶 Wi-Fi haut débit\n📺 TV IPTV\n🏊 Piscine privée\n🏡 Terrasse\n🌿 Pergola\n🪑 Transats\n🍽️ Cuisine équipée\n🍴 Lave-vaisselle\n🧺 Lave-linge\n🧊 Réfrigérateur\n🍳 Four / Micro-ondes\n🍽️ Vaisselle complète\n🛋️ Salon extérieur\n🚿 Douche extérieure\n🚻 Toilettes extérieures\n🧸 Jeux pour enfants\n🚗 Parking privé couvert\n🧼 Serviettes fournies\n🏖️ Foutas de piscine\n🛏️ Linge de maison fourni\nhttps://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Alba.mp4\nLocalisation:",
+      "attributs": [],
+      "note_moyenne": 0,
+      "nb_avis": 0,
+      "disponible": true,
+      "photos": [
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Alba.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Alba-450x450.webp",
+          "alt": "Villa Alba"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Alba1.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Alba1-450x450.webp",
+          "alt": "Villa Alba"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Alba2.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Alba2-450x450.webp",
+          "alt": "Villa Alba"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Alba3.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Alba3-450x450.webp",
+          "alt": "Villa Alba"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Alba5.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Alba5-450x450.webp",
+          "alt": "Villa Alba"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Alba6.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Alba6-450x450.webp",
+          "alt": "Villa Alba"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Alba7.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Alba7-450x450.webp",
+          "alt": "Villa Alba"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Alba8.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Alba8-450x450.webp",
+          "alt": "Villa Alba"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Alba9.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Alba9-450x450.webp",
+          "alt": "Villa Alba"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Alba10.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Alba10-450x450.webp",
+          "alt": "Villa Alba"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Alba11.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Alba11-450x450.webp",
+          "alt": "Villa Alba"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        }
+      ],
+      "videos": [
+        "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Alba.mp4"
+      ]
+    },
+    {
+      "id": 3682,
+      "nom": "Villa Ilyane – Villa avec piscine privée et jacuzzi à Midoun Djerba",
+      "slug": "villa-ilyane-villa-avec-piscine-privee-et-jacuzzi-a-midoun-djerba",
+      "url": "https://immosoleildjerba.com/produit/villa-ilyane-villa-avec-piscine-privee-et-jacuzzi-a-midoun-djerba/",
+      "categories": [
+        "Location Vacances"
+      ],
+      "tags": [],
+      "prix": {
+        "montant": 500,
+        "min": null,
+        "max": null,
+        "devise": "TND",
+        "affichage": "د.ت 500"
+      },
+      "points_cles": [],
+      "resume": "Découvrez Villa Ilyane, une élégante villa située à Midoun – route Mguersaa, Djerba. Avec sa piscine privée, son jacuzzi et ses espaces confortables, elle est idéale pour des vacances reposantes en famille.",
+      "description": "Villa Ilyane – Luxe, confort et détente à Djerba\n6 voyageurs · 1 suite parentale · 2 chambres · Piscine privée · Jacuzzi · Sans vis-à-vis\n📍 Midoun – Route Mguersaa, Djerba\nBienvenue à Villa Ilyane, une magnifique villa située à Midoun sur la route Mguersaa, pensée pour offrir des vacances placées sous le signe du confort et de la sérénité. Son cadre paisible et ses prestations de qualité en font une adresse idéale pour les familles à la recherche de calme et de bien-être.\nComposition intérieure\nLa villa dispose d’un espace de vie chaleureux et parfaitement agencé :\nSalon confortable et convivial\nCuisine entièrement équipée\nSalle d’eau moderne\n2 chambres au rez-de-chaussée\n1 suite parentale à l’étage\nExtérieur & détente\nÀ l’extérieur, profitez d’un véritable espace de relaxation :\nPiscine privée\nJacuzzi\nEspace détente aménagé\nCadre calme et agréable\nEmplacement\nSituée à Midoun – route Mguersaa, la villa bénéficie d’un emplacement pratique permettant un accès rapide aux commerces, services et attractions de Djerba.\nLocalisation:",
+      "attributs": [],
+      "note_moyenne": 0,
+      "nb_avis": 0,
+      "disponible": true,
+      "photos": [
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Ilyane.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Ilyane-450x450.webp",
+          "alt": "Villa Ilyane"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Ilyane1.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Ilyane1-450x450.webp",
+          "alt": "Villa Ilyane"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Ilyane2.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Ilyane2-450x450.webp",
+          "alt": "Villa Ilyane"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Ilyane3.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Ilyane3-450x450.webp",
+          "alt": "Villa Ilyane"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Ilyane4.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Ilyane4-450x450.webp",
+          "alt": "Villa Ilyane"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Ilyane5.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Ilyane5-450x450.webp",
+          "alt": "Villa Ilyane"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Ilyane6.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Ilyane6-450x450.webp",
+          "alt": "Villa Ilyane"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Ilyane7.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Ilyane7-450x450.webp",
+          "alt": "Villa Ilyane"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Ilyane8.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Ilyane8-450x450.webp",
+          "alt": "Villa Ilyane"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Ilyane9.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Ilyane9-450x450.webp",
+          "alt": "Villa Ilyane"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Ilyane10.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Ilyane10-450x450.webp",
+          "alt": "Villa Ilyane"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Ilyane11.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Ilyane11-450x450.webp",
+          "alt": "Villa Ilyane"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Ilyane12.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Ilyane12-450x450.webp",
+          "alt": "Villa Ilyane"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Ilyane13.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Ilyane13-450x450.webp",
+          "alt": "Villa Ilyane"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Ilyane14.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-Ilyane14-450x450.webp",
+          "alt": "Villa Ilyane"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 3647,
+      "nom": "Deux villas neuves à vendre à Houmt Souk – Djerba | Terrain 400 m²",
+      "slug": "deux-villas-neuves-a-vendre-a-houmt-souk-djerba-terrain-400-m%c2%b2",
+      "url": "https://immosoleildjerba.com/produit/deux-villas-neuves-a-vendre-a-houmt-souk-djerba-terrain-400-m%c2%b2/",
+      "categories": [
+        "Vente",
+        "Villas"
+      ],
+      "tags": [],
+      "prix": {
+        "montant": 340000,
+        "min": 340000,
+        "max": 350000,
+        "devise": "TND",
+        "affichage": "د.ت 340.000 – د.ت 350.000Plage de prix : د.ت 340.000 à د.ت 350.000"
+      },
+      "points_cles": [],
+      "resume": "Découvrez ces deux villas neuves situées à Houmt Souk – Djerba, dans un quartier calme et proche de toutes les commodités. Avec leur terrain de 400 m², leurs espaces lumineux et leur potentiel piscine, elles sont idéales pour une résidence principale ou un investissement rentable.\n💰 Prix : 340 000 DT & 350 000 DT\n✔ Suite parentale\n✔ 2 chambres supplémentaires\n✔ Garage privé\n✔ Terrain piscinable\n📞 Contactez-nous pour plus d’informations ou une visite rapide.",
+      "description": "Deux villas neuves à vendre à Houmt Souk – Djerba\nDécouvrez une belle opportunité immobilière située à Houmt Souk, dans un quartier calme et proche de toutes les commodités. Ces deux villas neuves, fraîchement achevées, offrent un cadre de vie moderne, confortable et idéal pour une résidence principale ou un investissement locatif à Djerba.\nUn emplacement stratégique\nSituées à Houmt Souk, les villas bénéficient d’un environnement paisible tout en restant proches des commerces, écoles, services et axes principaux de l’île.\nCaractéristiques du bien\nChaque villa propose :\nTerrain de 400 m²\nSurface bâtie de 135 m²\nSuite parentale\n2 chambres supplémentaires\nEspaces lumineux et bien agencés\nConstruction moderne et fonctionnelle\nExtérieurs et potentiel\nLes villas disposent de :\nGarage privé\nTerrain piscinable\nEspaces extérieurs exploitables\nPossibilité d’aménagement jardin ou piscine\n💡 Un investissement idéal\nCes villas sont parfaites pour :\nRésidence principale familiale\nMaison de vacances à Djerba\nInvestissement immobilier rentable\n💰 Prix\nVilla 1 : 340 000 DT\nVilla 2 : 350 000 DT\n📞 Pour plus d’informations ou pour organiser une visite, contactez-nous au 25509998\nhttps://immosoleildjerba.com/wp-content/uploads/2026/06/Vt_2_Villas.mp4\nLocalisation:",
+      "attributs": [
+        {
+          "nom": "Villa",
+          "valeurs": [
+            "Villa 1",
+            "Villa 2"
+          ]
+        }
+      ],
+      "note_moyenne": 0,
+      "nb_avis": 0,
+      "disponible": true,
+      "photos": [
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vt_2_Villas.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vt_2_Villas-450x450.webp",
+          "alt": "Vt_2_Villas"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vt_2_Villas1.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vt_2_Villas1-450x450.webp",
+          "alt": "Vt_2_Villas"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vt_2_Villas3.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vt_2_Villas3-450x450.webp",
+          "alt": "Vt_2_Villas"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vt_2_Villas4.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vt_2_Villas4-450x450.webp",
+          "alt": "Vt_2_Villas"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vt_2_Villas5.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vt_2_Villas5-450x450.webp",
+          "alt": "Vt_2_Villas"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vt_2_Villas6.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vt_2_Villas6-450x450.webp",
+          "alt": "Vt_2_Villas"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vt_2_Villas7.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vt_2_Villas7-450x450.webp",
+          "alt": "Vt_2_Villas"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vt_2_Villas8.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vt_2_Villas8-450x450.webp",
+          "alt": "Vt_2_Villas"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        }
+      ],
+      "videos": [
+        "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vt_2_Villas.mp4"
+      ]
+    },
+    {
+      "id": 3550,
+      "nom": "Fond de commerce à vendre – Houmt Souk (route aéroport)",
+      "slug": "fond-de-commerce-a-vendre-houmt-souk-route-aeroport",
+      "url": "https://immosoleildjerba.com/produit/fond-de-commerce-a-vendre-houmt-souk-route-aeroport/",
+      "categories": [
+        "Locaux commerciaux &amp; bureaux",
+        "Vente"
+      ],
+      "tags": [],
+      "prix": {
+        "montant": 55000,
+        "min": null,
+        "max": null,
+        "devise": "TND",
+        "affichage": "د.ت 55.000"
+      },
+      "points_cles": [],
+      "resume": "À vendre, fond de commerce en activité situé sur la route de l’aéroport à Houmt Souk Djerba. Local de 30 m² avec un excellent emplacement stratégique, idéal pour tout type d’activité commerciale.\nPrix : 55 000 TND",
+      "description": "Fond de commerce à vendre – Houmt Souk (route de l’aéroport)\n📍 Route de l’aéroport, Houmt Souk\nNous vous proposons une excellente opportunité d’investissement avec ce fond de commerce en activité situé sur la route de l’aéroport à Houmt Souk, Djerba, bénéficiant d’un emplacement stratégique à fort passage.\nLe local est actuellement exploité comme boutique, mais il est parfaitement adaptable à toute autre activité commerciale selon vos besoins.\nCaractéristiques :\nSurface : 30 m²\n2 salles d’exposition\nCaméra de surveillance\nLocal bien équipé et sécurisé\nTrès bon emplacement stratégique\nCe local représente une opportunité idéale pour un investissement rentable ou pour lancer votre propre activité commerciale.\nPrix : 55 000 TND\nhttps://immosoleildjerba.com/wp-content/uploads/2026/06/Fond-de-Commerce.mp4\nLocalisation:",
+      "attributs": [],
+      "note_moyenne": 0,
+      "nb_avis": 0,
+      "disponible": true,
+      "photos": [
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Fond.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Fond-450x450.webp",
+          "alt": "fond-comm_BT"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        }
+      ],
+      "videos": [
+        "https://immosoleildjerba.com/wp-content/uploads/2026/06/Fond-de-Commerce.mp4"
+      ]
+    },
+    {
+      "id": 3529,
+      "nom": "Villa de prestige à la Lagune Djerba",
+      "slug": "villa-de-prestige-a-la-lagune-djerba",
+      "url": "https://immosoleildjerba.com/produit/villa-de-prestige-a-la-lagune-djerba/",
+      "categories": [
+        "Vente",
+        "Villas"
+      ],
+      "tags": [],
+      "prix": {
+        "montant": 850000,
+        "min": null,
+        "max": null,
+        "devise": "TND",
+        "affichage": "د.ت 850.000"
+      },
+      "points_cles": [],
+      "resume": "Découvrez cette villa de prestige située à la Lagune à Djerba, dans l’un des emplacements les plus exclusifs et recherchés de l’île. Entre luxe, sérénité et élégance, cette propriété représente une opportunité rare pour habiter ou investir dans un cadre exceptionnel.\nTitre bleu disponible\nPrix : 850 000 TND",
+      "description": "Villa de prestige à la Lagune – Djerba\n📍 Lagune, Djerba – Tunisie\nNichée dans un environnement exclusif au cœur de la Lagune à Djerba, cette villa de prestige offre une expérience de vie unique où luxe, confort et sérénité se rencontrent harmonieusement.\nPensée pour répondre aux exigences du haut standing, cette propriété séduit par son architecture élégante, sa luminosité naturelle et son atmosphère apaisante.\nChaque espace a été soigneusement conçu pour offrir un confort de vie exceptionnel, idéal aussi bien pour une résidence principale que pour un investissement immobilier de prestige.\nPoints forts :\nEmplacement premium à la Lagune\nCadre calme et exclusif\nPrestations haut standing\nExcellente opportunité d’investissement\nTitre bleu disponible\nCette villa représente une opportunité rare d’acquérir un bien d’exception dans l’un des secteurs les plus recherchés de Djerba.\nPrix : 850 000 TND\nhttps://immosoleildjerba.com/wp-content/uploads/2026/06/VT_villa_Lagune.mp4\nLocalisation:",
+      "attributs": [],
+      "note_moyenne": 0,
+      "nb_avis": 0,
+      "disponible": true,
+      "photos": [
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_villa_Lagune-.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_villa_Lagune--450x450.webp",
+          "alt": "VT_villa_Lagune"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_villa_Lagune1.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_villa_Lagune1-450x450.webp",
+          "alt": "VT_villa_Lagune"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_villa_Lagune2.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_villa_Lagune2-450x450.webp",
+          "alt": "VT_villa_Lagune"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_villa_Lagune3.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_villa_Lagune3-450x450.webp",
+          "alt": "VT_villa_Lagune"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_villa_Lagune4.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_villa_Lagune4-450x450.webp",
+          "alt": "VT_villa_Lagune"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_villa_Lagune5.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_villa_Lagune5-450x450.webp",
+          "alt": "VT_villa_Lagune"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_villa_Lagune6.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_villa_Lagune6-450x450.webp",
+          "alt": "VT_villa_Lagune"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_villa_Lagune7.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_villa_Lagune7-450x450.webp",
+          "alt": "VT_villa_Lagune"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        }
+      ],
+      "videos": [
+        "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_villa_Lagune.mp4"
+      ]
+    },
+    {
+      "id": 3507,
+      "nom": "Villa haut standing à vendre à Midoun",
+      "slug": "villa-haut-standing-a-vendre-a-midoun",
+      "url": "https://immosoleildjerba.com/produit/villa-haut-standing-a-vendre-a-midoun/",
+      "categories": [
+        "Vente",
+        "Villas"
+      ],
+      "tags": [],
+      "prix": {
+        "montant": 850000,
+        "min": null,
+        "max": null,
+        "devise": "TND",
+        "affichage": "د.ت 850.000"
+      },
+      "points_cles": [],
+      "resume": "Découvrez cette magnifique villa haut standing en cours de construction à Midoun, située dans un emplacement stratégique en zone urbaine, proche de toutes les commodités. Construite avec des matériaux premium et des finitions modernes, cette propriété représente une excellente opportunité d’investissement ou d’habitation.\nCaractéristiques :\nTerrain : 406 m²\nSurface couverte : 241 m²\nTitre bleu disponible\nPrix : 850 000 TND",
+      "description": "Villa haut standing avec piscine à Midoun\n📍 Tlella, Djerba – Tunisie\nNotre agence vous propose une superbe villa en cours de construction située dans un quartier résidentiel calme et recherché à Midoun, en zone urbaine, à proximité immédiate des commodités essentielles.\nPensée pour offrir un confort de vie exceptionnel, cette villa sera livrée entièrement finie avec des prestations haut de gamme, des matériaux de première qualité et des finitions modernes soigneusement sélectionnées.\nComposition intérieure :\nSalon spacieux et lumineux\nCuisine indépendante moderne\n3 suites parentales avec salles d’eau privatives\nÀ l’extérieur :\nPiscine privée\nToilette extérieure\nAbri voiture\nEspaces extérieurs aménageables\nPoints forts :\nVilla neuve haut standing\nMatériaux premium et finitions modernes\nTitre bleu disponible\nZone urbaine recherchée à Midoun\nExcellente opportunité d’investissement\nCette villa représente un choix idéal aussi bien pour une résidence principale que pour un investissement immobilier rentable à Djerba.\nCaractéristiques :\nTerrain : 406 m²\nSurface couverte : 241 m²\n💰 Prix : 850 000 TND\nLocalisation:",
+      "attributs": [],
+      "note_moyenne": 0,
+      "nb_avis": 0,
+      "disponible": true,
+      "photos": [
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_Villa-haut-standing2.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_Villa-haut-standing2-450x450.webp",
+          "alt": "VT_Villa haut standing"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_Villa-haut-standing.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_Villa-haut-standing-450x450.webp",
+          "alt": "VT_Villa haut standing"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_Villa-haut-standing1.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_Villa-haut-standing1-450x450.webp",
+          "alt": "VT_Villa haut standing"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_Villa-haut-standing2.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_Villa-haut-standing2-450x450.webp",
+          "alt": "VT_Villa haut standing"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_Villa-haut-standing3.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_Villa-haut-standing3-450x450.webp",
+          "alt": "VT_Villa haut standing"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_Villa-haut-standing4.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_Villa-haut-standing4-450x450.webp",
+          "alt": "VT_Villa haut standing"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 3465,
+      "nom": "Villa Sarisma avec piscine à Djerba",
+      "slug": "villa-sarisma-avec-piscine-a-djerba",
+      "url": "https://immosoleildjerba.com/produit/villa-sarisma-avec-piscine-a-djerba/",
+      "categories": [
+        "Location Vacances"
+      ],
+      "tags": [],
+      "prix": {
+        "montant": 300,
+        "min": 300,
+        "max": 450,
+        "devise": "TND",
+        "affichage": "د.ت 300 – د.ت 450Plage de prix : د.ت 300 à د.ت 450"
+      },
+      "points_cles": [],
+      "resume": "Découvrez Villa Sarisma, une charmante villa S+3 située à Djerba, au cœur d’une palmeraie. Avec sa piscine privée sans vis-à-vis et ses espaces confortables, elle est idéale pour des vacances en famille en toute tranquillité.",
+      "description": "Villa Sarisma\n6 voyageurs · 1 suite parentale · 2 chambres · Piscine privée · Grand espace extérieur · Sans vis-à-vis\n📍 Entre Midoun et Houmt Souk, Djerba – Tunisie\nVilla Sarisma – Villa S+3 avec piscine privée à Djerba\nOffrez-vous un séjour inoubliable à Villa Sarisma, une élégante villa située dans un cadre paisible au cœur d’une palmeraie à Djerba. Entre confort, intimité et détente, cette villa est idéale pour des vacances en famille.\nComposition intérieure :\nUn salon confortable et lumineux\nUne suite parentale\n2 chambres spacieuses\nCuisine ouverte équipée\nSalle d’eau moderne\nÀ l’extérieur :\nPiscine privée sans vis-à-vis\nGrande terrasse aménagée\nGrand espace extérieur\nCadre calme et reposant\nPoints forts :\nAucun vis-à-vis\nPiscine privée\nSituée au cœur d’une palmeraie\nTélévision française et internet\nClimatisation\nTarifs de location\nPériode\nPrix (DT)\nJuin\n300 DT\nJuillet & Août\n450 DT\nÉquipements\nPiscine privée\nTerrasse\nClimatisation\nWi-Fi\nTV française\nCuisine équipée\nLocalisation:",
+      "attributs": [
+        {
+          "nom": "saison",
+          "valeurs": [
+            "Juin",
+            "Juillet & Août"
+          ]
+        }
+      ],
+      "note_moyenne": 5,
+      "nb_avis": 3,
+      "disponible": true,
+      "photos": [
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Sarisma.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Sarisma-450x450.webp",
+          "alt": "Sarisma"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Sarisma1.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Sarisma1-450x450.webp",
+          "alt": "Sarisma"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Sarisma2.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Sarisma2-450x450.webp",
+          "alt": "Sarisma"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Sarisma3.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Sarisma3-450x450.webp",
+          "alt": "Sarisma"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Sarisma4.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Sarisma4-450x450.webp",
+          "alt": "Sarisma"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Sarisma5.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Sarisma5-450x450.webp",
+          "alt": "Sarisma"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Sarisma6.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Sarisma6-450x450.webp",
+          "alt": "Sarisma"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Sarisma7.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Sarisma7-450x450.webp",
+          "alt": "Sarisma"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 3406,
+      "nom": "Villa Julius",
+      "slug": "villa-julius-avec-piscine-en-location-vacances-a-djerba",
+      "url": "https://immosoleildjerba.com/produit/villa-julius-avec-piscine-en-location-vacances-a-djerba/",
+      "categories": [
+        "Location Vacances"
+      ],
+      "tags": [],
+      "prix": {
+        "montant": 250,
+        "min": null,
+        "max": null,
+        "devise": "TND",
+        "affichage": "د.ت 250"
+      },
+      "points_cles": [],
+      "resume": "Découvrez Villa Julius, une magnifique villa de vacances située entre Midoun et Houmt Souk à Djerba. Avec sa piscine privée, ses 3 chambres et son grand espace extérieur, elle est idéale pour des vacances en famille ou entre amis.",
+      "description": "Villa Julius\n8 voyageurs · 1 suite parentale · 2 chambres · Piscine privée · Grand espace extérieur · Garage privé · Entre Midoun et Houmt Souk\nVilla Julius – Villa de vacances avec piscine à Djerba\nOffrez-vous une parenthèse de détente à Villa Julius, une charmante villa située entre Midoun et Houmt Souk. Son cadre paisible, sa piscine privée et ses espaces confortables en font l’endroit idéal pour des vacances relaxantes en famille ou entre amis.\nComposition intérieure :\nUn salon lumineux et confortable\nUne suite parentale spacieuse\n2 chambres agréables et bien aménagées\nEspaces de vie fonctionnels et chaleureux\nÀ l’extérieur :\nPiscine privée\nGrand espace extérieur aménagé\nGarage privé\nEnvironnement calme et agréable\nPoints forts :\nPiscine privée\nEmplacement stratégique entre Midoun et Houmt Souk\nCadre paisible et reposant\nIdéale pour familles et groupes d’amis\nConfort et intimité garantis\nTarifs de location\nPériode\nPrix (DT)\nMai\n370 DT\nJuin\n390 DT\nJuillet\n640 DT\nAoût\n640 DT\nSeptembre\n510 DT\nEquipement:\nPiscine privée\nGarage\nEspace extérieur\nhttps://immosoleildjerba.com/wp-content/uploads/2026/06/Julius.mp4\nLocalisation:",
+      "attributs": [
+        {
+          "nom": "saison",
+          "valeurs": [
+            "Mai",
+            "Juin",
+            "Juillet",
+            "Août",
+            "Septembre"
+          ]
+        }
+      ],
+      "note_moyenne": 5,
+      "nb_avis": 2,
+      "disponible": true,
+      "photos": [
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Julius.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Julius-450x450.webp",
+          "alt": "Julius"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Julius1.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Julius1-450x450.webp",
+          "alt": "Julius"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Julius2.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Julius2-450x450.webp",
+          "alt": "Julius"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Julius3.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Julius3-450x450.webp",
+          "alt": "Julius"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Julius4.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Julius4-450x450.webp",
+          "alt": "Julius"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Julius5.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Julius5-450x450.webp",
+          "alt": "Julius"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Julius6.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Julius6-450x450.webp",
+          "alt": "Julius"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Julius7.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Julius7-450x450.webp",
+          "alt": "Julius"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        }
+      ],
+      "videos": [
+        "https://immosoleildjerba.com/wp-content/uploads/2026/06/Julius.mp4"
+      ]
+    },
+    {
+      "id": 3340,
+      "nom": "Domaine de luxe avec piscine à vendre à Djerba",
+      "slug": "domaine-de-luxe-avec-piscine-a-vendre-a-djerba",
+      "url": "https://immosoleildjerba.com/produit/domaine-de-luxe-avec-piscine-a-vendre-a-djerba/",
+      "categories": [
+        "Vente",
+        "Villas"
+      ],
+      "tags": [],
+      "prix": {
+        "montant": 2288000,
+        "min": null,
+        "max": null,
+        "devise": "TND",
+        "affichage": "د.ت 2.288.000"
+      },
+      "points_cles": [],
+      "resume": "Magnifique domaine de prestige situé à Djerba, offrant 700 m² bâtis sur un vaste terrain de 9200 m² en zone agricole. Cette propriété d’exception comprend une villa principale, deux appartements, un studio, une grande piscine, plusieurs espaces de réception et un cadre unique entre ville et mer.\nPrix : 2 288 000 TND",
+      "description": "Découvrez ce domaine d’exception à Djerba, une propriété rare et prestigieuse offrant 700 m² bâtis sur un terrain de 9200 m² en zone agricole, idéalement située dans un environnement calme entre ville et mer.\nCe bien unique se compose d’une somptueuse maison de maître meublée avec élégance, de deux appartements indépendants, d’un studio ainsi que de vastes espaces extérieurs parfaitement aménagés.\nLa villa principale comprend :\nUne entrée majestueuse\nDeux grands salons\nUne cheminée\nDeux patios\nUne salle à manger\nDeux cuisines dont une grande avec îlot central\nUne suite parentale\nDeux chambres\nEspaces dédiés au personnel\nDe grandes baies vitrées offrent une vue imprenable sur une piscine aux dimensions exceptionnelles avec plage aménagée.\nÀ l’étage :\nUne suite de prestige\nUne salle de bain avec baignoire sous arcade\nUne douche avec sauna\nUne terrasse de 120 m² avec vue panoramique sur la piscine, le jardin et les annexes\nLes annexes :\nDeux appartements indépendants\nUn studio avec salon, espace nuit et terrasse face à la piscine\nDeux garages\nUne allée majestueuse digne d’un hôtel\nCette propriété représente une opportunité idéale pour un projet de maison d’hôtes haut standing, un investissement de prestige ou une résidence privée exceptionnelle.\nPrix : 2 288 000 TND\nLocalisation:",
+      "attributs": [],
+      "note_moyenne": 0,
+      "nb_avis": 0,
+      "disponible": true,
+      "photos": [
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes1-1.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes1-1-450x450.webp",
+          "alt": "maison d’hôtes"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes2-1.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes2-1-450x450.webp",
+          "alt": "maison d’hôtes"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes4-1.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes4-1-450x450.webp",
+          "alt": "maison d’hôtes"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes6-1.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes6-1-450x450.webp",
+          "alt": "maison d’hôtes"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes7-1.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes7-1-450x450.webp",
+          "alt": "maison d’hôtes"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes8-1.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes8-1-450x450.webp",
+          "alt": "maison d’hôtes"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes9-1.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes9-1-450x450.webp",
+          "alt": "maison d’hôtes"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes10.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes10-450x450.webp",
+          "alt": "maison d’hôtes"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes11.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes11-450x450.webp",
+          "alt": "maison d’hôtes"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes12.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes12-450x450.webp",
+          "alt": "maison d’hôtes"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes13.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes13-450x450.webp",
+          "alt": "maison d’hôtes"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes14.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes14-450x450.webp",
+          "alt": "maison d’hôtes"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes15.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes15-450x450.webp",
+          "alt": "maison d’hôtes"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes16.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes16-450x450.webp",
+          "alt": "maison d’hôtes"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes17.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes17-450x450.webp",
+          "alt": "maison d’hôtes"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes18.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes18-450x450.webp",
+          "alt": "maison d’hôtes"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 3329,
+      "nom": "Pizzeria à vendre au centre de Midoun",
+      "slug": "pizzeria-a-vendre-au-centre-de-midoun",
+      "url": "https://immosoleildjerba.com/produit/pizzeria-a-vendre-au-centre-de-midoun/",
+      "categories": [
+        "Locaux commerciaux &amp; bureaux",
+        "Vente"
+      ],
+      "tags": [],
+      "prix": {
+        "montant": 140000,
+        "min": null,
+        "max": null,
+        "devise": "TND",
+        "affichage": "د.ت 140.000"
+      },
+      "points_cles": [],
+      "resume": "Opportunité exceptionnelle d’acquérir un fond de commerce de pizzeria situé en plein centre de Midoun à Djerba. Grâce à son emplacement stratégique et très fréquenté, ce local représente une excellente opportunité d’investissement rentable.\nPrix : 140 000 TND",
+      "description": "Découvrez cette excellente opportunité d’investissement avec ce fond de commerce de pizzeria à vendre au centre de Midoun, dans l’une des zones les plus dynamiques et fréquentées de Djerba.\nGrâce à son emplacement stratégique au cœur de Midoun, ce commerce bénéficie d’une forte visibilité et d’un flux important de clients potentiels, offrant un excellent potentiel de rentabilité.\nLe local comprend :\nUne cuisine entièrement équipée avec matériel prêt à l’usage\nUne salle accueillante pour recevoir la clientèle\nUn espace fonctionnel adapté à une activité de restauration\nUn emplacement commercial premium\nLes points forts :\nCommerce clé en main\nEmplacement central très recherché\nFort potentiel commercial\nInvestissement rentable à Djerba\nPrix : 140 000 TND\nhttps://immosoleildjerba.com/wp-content/uploads/2026/06/pizzeria_Vente.mp4\nLocalisation:",
+      "attributs": [],
+      "note_moyenne": 0,
+      "nb_avis": 0,
+      "disponible": true,
+      "photos": [
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/pizzeria-Vente.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/pizzeria-Vente-450x450.webp",
+          "alt": "pizzeria Vente"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        }
+      ],
+      "videos": [
+        "https://immosoleildjerba.com/wp-content/uploads/2026/06/pizzeria_Vente.mp4"
+      ]
+    },
+    {
+      "id": 3319,
+      "nom": "Maison Yoza en location annuelle à Djerba",
+      "slug": "maison-yoza-en-location-annuelle-a-djerba",
+      "url": "https://immosoleildjerba.com/produit/maison-yoza-en-location-annuelle-a-djerba/",
+      "categories": [
+        "Location Annuelle",
+        "Villa avec piscine",
+        "Villa meublée"
+      ],
+      "tags": [],
+      "prix": {
+        "montant": 1800,
+        "min": null,
+        "max": null,
+        "devise": "TND",
+        "affichage": "د.ت 1.800"
+      },
+      "points_cles": [],
+      "resume": "Découvrez Maison Yoza, une charmante maison S+1 meublée en location annuelle à Djerba. Moderne et bien aménagée, elle offre 1 chambre, un salon cosy, une cuisine équipée et un cadre de vie calme, idéal pour un couple ou une petite famille.",
+      "description": "Découvrez Maison Yoza, une élégante maison S+1 meublée en location annuelle à Djerba, située dans un environnement calme et agréable.\nModerne, lumineuse et soigneusement aménagée, cette maison offre un cadre de vie confortable, idéal pour une personne seule, un couple ou une petite famille recherchant sérénité et praticité au quotidien.\nComposition intérieure :\n1 chambre spacieuse et lumineuse\nSalon cosy et bien aménagé\nCuisine fonctionnelle entièrement équipée\nSalle d’eau moderne\nEspaces bien optimisés\nMaison entièrement meublée\nLes points forts :\nMaison moderne et élégante\nCadre calme et paisible\nIdéale pour couple ou petite famille\nEspaces confortables et fonctionnels\nLocation annuelle prête à habiter\nEmplacement :\nSituée à Djerba\nQuartier calme et agréable\nProche des commodités essentielles\nAccès facile aux commerces et services\nhttps://immosoleildjerba.com/wp-content/uploads/2026/05/yozaVilla.mp4\nLocalisation:",
+      "attributs": [],
+      "note_moyenne": 0,
+      "nb_avis": 0,
+      "disponible": true,
+      "photos": [
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza-450x450.webp",
+          "alt": "Maison Yoza"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza4.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza4-450x450.webp",
+          "alt": "Maison Yoza"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza13.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza13-450x450.webp",
+          "alt": "Maison Yoza"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza8.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza8-450x450.webp",
+          "alt": "Maison Yoza"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza6.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza6-450x450.webp",
+          "alt": "Maison Yoza"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza1.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza1-450x450.webp",
+          "alt": "Maison Yoza"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza2.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza2-450x450.webp",
+          "alt": "Maison Yoza"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza9.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza9-450x450.webp",
+          "alt": "Maison Yoza"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza10.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza10-450x450.webp",
+          "alt": "Maison Yoza"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza11.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza11-450x450.webp",
+          "alt": "Maison Yoza"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza3.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza3-450x450.webp",
+          "alt": "Maison Yoza"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza5.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza5-450x450.webp",
+          "alt": "Maison Yoza"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        }
+      ],
+      "videos": [
+        "https://immosoleildjerba.com/wp-content/uploads/2026/05/yozaVilla.mp4"
+      ]
+    },
+    {
+      "id": 3281,
+      "nom": "Villa à vendre à Midoun Djerba sur route zone touristique",
+      "slug": "villa-a-vendre-a-midoun-djerba-sur-route-zone-touristique",
+      "url": "https://immosoleildjerba.com/produit/villa-a-vendre-a-midoun-djerba-sur-route-zone-touristique/",
+      "categories": [
+        "Vente",
+        "Villas"
+      ],
+      "tags": [],
+      "prix": {
+        "montant": 450000,
+        "min": null,
+        "max": null,
+        "devise": "TND",
+        "affichage": "د.ت 450.000"
+      },
+      "points_cles": [],
+      "resume": "Superbe villa à vendre à Midoun Djerba, idéalement située sur la route de la zone touristique. Construite sur un terrain de 400 m² avec une surface habitable de 180 m², cette propriété représente une excellente opportunité d’investissement ou de résidence.\nPrix : 450 000 TND",
+      "description": "Découvrez cette charmante villa située à Midoun Djerba, sur la route de la zone touristique, dans un secteur très recherché offrant un accès rapide aux commodités, aux plages et aux zones d’animation.\nÉdifiée sur un terrain de 400 m² avec une surface habitable de 180 m², cette propriété propose un cadre de vie agréable, idéal pour une résidence principale, une maison de vacances ou un investissement locatif rentable.\nGrâce à son emplacement stratégique, cette villa bénéficie d’un fort potentiel de valorisation dans l’une des zones les plus attractives de Djerba.\nPrix : 450 000 TND\nFrais d’agence : 2 %",
+      "attributs": [],
+      "note_moyenne": 0,
+      "nb_avis": 0,
+      "disponible": true,
+      "photos": [
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VentVilla_Midoun9.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VentVilla_Midoun9-450x450.webp",
+          "alt": "VentVilla_Midoun"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VentVilla_Midoun8.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VentVilla_Midoun8-450x450.webp",
+          "alt": "VentVilla_Midoun"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VentVilla_Midoun.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VentVilla_Midoun-450x450.webp",
+          "alt": "VentVilla_Midoun"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VentVilla_Midoun3.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VentVilla_Midoun3-450x450.webp",
+          "alt": "VentVilla_Midoun"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VentVilla_Midoun4.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VentVilla_Midoun4-450x450.webp",
+          "alt": "VentVilla_Midoun"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VentVilla_Midoun5.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VentVilla_Midoun5-450x450.webp",
+          "alt": "VentVilla_Midoun"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VentVilla_Midoun6.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VentVilla_Midoun6-450x450.webp",
+          "alt": "VentVilla_Midoun"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VentVilla_Midoun7.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VentVilla_Midoun7-450x450.webp",
+          "alt": "VentVilla_Midoun"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VentVilla_Midoun10.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VentVilla_Midoun10-450x450.webp",
+          "alt": "VentVilla_Midoun"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 3248,
+      "nom": "Villa moderne à vendre à Houmt Souk Djerba avec garage et jardin",
+      "slug": "villa-moderne-a-vendre-a-houmt-souk-djerba-avec-garage-et-jardin",
+      "url": "https://immosoleildjerba.com/produit/villa-moderne-a-vendre-a-houmt-souk-djerba-avec-garage-et-jardin/",
+      "categories": [
+        "Vente",
+        "Villas"
+      ],
+      "tags": [],
+      "prix": {
+        "montant": 400000,
+        "min": null,
+        "max": null,
+        "devise": "TND",
+        "affichage": "د.ت 400.000"
+      },
+      "points_cles": [],
+      "resume": "Charmante villa de standing située en plein centre urbain de Houmt Souk, construite sur un terrain de 390 m² avec une surface habitable de 140 m² et un garage de 24 m². Elle offre des espaces lumineux, un jardin agréable et une architecture pensée pour le confort familial.\nPrix : 400 000 TND",
+      "description": "Découvrez cette belle villa située en zone urbaine à Houmt Souk, dans un environnement calme et agréable. Édifiée sur un terrain de 390 m², avec une surface habitable de 140 m² ainsi qu’un garage de 24 m², cette propriété bénéficie d’un emplacement privilégié donnant sur deux voies.\nL’intérieur de la villa a été soigneusement conçu pour allier confort, modernité et fonctionnalité.\nLa partie jour comprend :\n✅ Une vaste pièce de vie lumineuse✅ Une grande cuisine aménagée semi-ouverte✅ Une belle baie vitrée donnant sur la terrasse✅ Un jardin agréable✅ Un garage semi-ouvert\nL’espace nuit, séparé pour plus d’intimité, est accessible via un élégant hall décoré avec un éclairage LED doux et moderne.\nIl comprend :\n✅ Deux chambres confortables✅ Une salle de bain commune✅ Une superbe suite parentale✅ Dressing intégré✅ Salle de bain privative\nCette villa séduit par sa luminosité naturelle, son atmosphère chaleureuse et son excellent standing.\n💰 Prix : 400 000 TND\nUne opportunité rare à saisir pour un investissement ou une résidence principale à Djerba.\nhttps://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine.mp4",
+      "attributs": [],
+      "note_moyenne": 0,
+      "nb_avis": 0,
+      "disponible": true,
+      "photos": [
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine5.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine5-450x450.webp",
+          "alt": "Vent_Villa_Hachine"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine1.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine1-450x450.webp",
+          "alt": "Vent_Villa_Hachine"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine-450x450.webp",
+          "alt": "Vent_Villa_Hachine"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine2.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine2-450x450.webp",
+          "alt": "Vent_Villa_Hachine"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine3.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine3-450x450.webp",
+          "alt": "Vent_Villa_Hachine"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine4.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine4-450x450.webp",
+          "alt": "Vent_Villa_Hachine"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine6.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine6-450x450.webp",
+          "alt": "Vent_Villa_Hachine"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine7.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine7-450x450.webp",
+          "alt": "Vent_Villa_Hachine"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine12.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine12-450x450.webp",
+          "alt": "Vent_Villa_Hachine"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine8.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine8-450x450.webp",
+          "alt": "Vent_Villa_Hachine"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine9.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine9-450x450.webp",
+          "alt": "Vent_Villa_Hachine"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine10.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine10-450x450.webp",
+          "alt": "Vent_Villa_Hachine"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine11.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine11-450x450.webp",
+          "alt": "Vent_Villa_Hachine"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        }
+      ],
+      "videos": [
+        "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine.mp4"
+      ]
+    },
+    {
+      "id": 3223,
+      "nom": "Villa meublée avec piscine à vendre à Tezdaine – Djerba",
+      "slug": "villa-meublee-avec-piscine-a-vendre-a-tezdaine-djerba",
+      "url": "https://immosoleildjerba.com/produit/villa-meublee-avec-piscine-a-vendre-a-tezdaine-djerba/",
+      "categories": [
+        "Vente",
+        "Villas"
+      ],
+      "tags": [],
+      "prix": {
+        "montant": 980000,
+        "min": null,
+        "max": null,
+        "devise": "TND",
+        "affichage": "د.ت 980.000"
+      },
+      "points_cles": [],
+      "resume": "Superbe villa entièrement meublée à Tezdaine, bâtie sur un terrain de 1000 m² avec une surface habitable de 450 m². Elle offre de beaux espaces de vie, une piscine avec cascade, un studio indépendant, double garage et un jardin gazonné.",
+      "description": "Découvrez cette magnifique villa située à Tezdaine, sur une route communicante avec la route du phare bowling, dans un environnement calme et agréable.\nConstruite sur un vaste terrain de 1000 m², cette propriété de 450 m² est vendue entièrement meublée avec tous ses équipements de qualité.\nLa villa se compose de :\n✅ Une grande pièce de vie lumineuse✅ Une cuisine moderne avec plan de travail en quartz et ameublement haut de gamme✅ Une suite parentale en rez-de-chaussée avec accès direct à la terrasse✅ Deux chambres supplémentaires✅ Une salle de douche✅ Toilettes invités\nÀ l’étage, un studio indépendant comprenant :\n✅ Une chambre✅ Un séjour✅ Une kitchenette✅ Une salle de douche✅ Une grande terrasse avec vue dégagée sur les alentours\nÀ l’extérieur, vous profiterez de :\n✅ Une belle piscine avec cascade✅ Douche et toilettes extérieures✅ Un débarras✅ Double garage de 50 m²✅ Un jardin gazonné avec arbres fruitiers\nCette propriété dispose également d’une demande de réquisition d’un titre foncier.\n💰 Prix : 980 000 TND",
+      "attributs": [],
+      "note_moyenne": 0,
+      "nb_avis": 0,
+      "disponible": true,
+      "photos": [
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez6.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez6-450x450.webp",
+          "alt": "VenteVilla_Tez1"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez-450x450.webp",
+          "alt": "VenteVilla_Tez"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez1.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez1-450x450.webp",
+          "alt": "VenteVilla_Tez"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez3.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez3-450x450.webp",
+          "alt": "VenteVilla_Tez"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez4.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez4-450x450.webp",
+          "alt": "VenteVilla_Tez"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez5.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez5-450x450.webp",
+          "alt": "VenteVilla_Tez"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez6.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez6-450x450.webp",
+          "alt": "VenteVilla_Tez1"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez7.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez7-450x450.webp",
+          "alt": "VenteVilla_Tez"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez8.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez8-450x450.webp",
+          "alt": "VenteVilla_Tez"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez9.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez9-450x450.webp",
+          "alt": "VenteVilla_Tez"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez10.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez10-450x450.webp",
+          "alt": "VenteVilla_Tez"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez11.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez11-450x450.webp",
+          "alt": "VenteVilla_Tez"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez12.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez12-450x450.webp",
+          "alt": "VenteVilla_Tez"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez13.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez13-450x450.webp",
+          "alt": "VenteVilla_Tez"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez14.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez14-450x450.webp",
+          "alt": "VenteVilla_Tez"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez15.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez15-450x450.webp",
+          "alt": "VenteVilla_Tez"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez16.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez16-450x450.webp",
+          "alt": "VenteVilla_Tez"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 2675,
+      "nom": "Terrain à vendre à Tezdiane Djerba 200 DT/m²",
+      "slug": "terrain-a-vendre-a-tezdiane-djerba-200-dt-m%c2%b2",
+      "url": "https://immosoleildjerba.com/produit/terrain-a-vendre-a-tezdiane-djerba-200-dt-m%c2%b2/",
+      "categories": [
+        "Terrains",
+        "Vente"
+      ],
+      "tags": [],
+      "prix": {
+        "montant": 200,
+        "min": null,
+        "max": null,
+        "devise": "TND",
+        "affichage": "د.ت 200"
+      },
+      "points_cles": [],
+      "resume": "Terrain à vendre à Tezdiane – Djerba, situé dans un emplacement stratégique proche de l’école et de la route principale. Ce terrain constructible est idéal pour un projet d’habitation ou un investissement immobilier dans une zone calme et en développement.\nPermis de construire possible.",
+      "description": "Terrain à vendre à Tezdiane – Djerba\nDécouvrez ce terrain situé à Tezdiane – Djerba, dans un emplacement stratégique proche de l’école et à seulement 300 mètres de la route principale. Ce terrain représente une excellente opportunité pour un projet d’habitation ou un investissement immobilier dans une zone calme et en développement.\nLe terrain est constructible et bénéficie d’un accès facile ainsi que d’un environnement agréable, idéal pour bâtir une maison ou un projet futur.\nCaractéristiques :\nTerrain constructible\nEmplacement stratégique à Tezdiane – Djerba\nProche de l’école et de la route principale\nZone calme et en développement\nIdéal pour habitation ou investissement\nInformations juridiques :\nTerrain issu d’un héritage\nDossier juridique disponible\nPermis de construire possible\nPrix :\n200 DT / m²\nCe terrain représente une opportunité rare à Djerba, combinant emplacement, accessibilité et potentiel d’investissement.\nLocalisation:",
+      "attributs": [],
+      "note_moyenne": 0,
+      "nb_avis": 0,
+      "disponible": true,
+      "photos": [
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Vent_Terr1.jpeg",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Vent_Terr1-450x450.jpeg",
+          "alt": "Vent_Terr"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Vent_Terr1.jpeg",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Vent_Terr1-450x450.jpeg",
+          "alt": "Vent_Terr"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Vent_Terr2.jpeg",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Vent_Terr2-450x450.jpeg",
+          "alt": "Vent_Terr"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Vent_Terr3.jpeg",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Vent_Terr3-450x450.jpeg",
+          "alt": "Vent_Terr"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 2633,
+      "nom": "Villa à vendre à Djerba – Sidi Jmour",
+      "slug": "villa-a-vendre-a-djerba-opportunite-rare",
+      "url": "https://immosoleildjerba.com/produit/villa-a-vendre-a-djerba-opportunite-rare/",
+      "categories": [
+        "Vente",
+        "Villas"
+      ],
+      "tags": [],
+      "prix": {
+        "montant": 570000,
+        "min": null,
+        "max": null,
+        "devise": "TND",
+        "affichage": "د.ت 570.000"
+      },
+      "points_cles": [],
+      "resume": "Villa à vendre à Djerba sur un terrain de 1000 m², située dans un emplacement stratégique proche de l’aéroport et de la plage Sidi Jmour. Cette propriété représente une excellente opportunité, que ce soit pour une résidence principale ou un investissement locatif rentable dans une zone en plein développement.",
+      "description": "Villa à vendre à Djerba – Opportunité rare\nÀ Djerba, dans un emplacement stratégique proche de l’aéroport et à quelques minutes de la plage de Sidi Jmour, découvrez cette villa construite sur un terrain de 1000 m².\nCette propriété représente une excellente opportunité, que ce soit pour une résidence principale, une maison de vacances ou un investissement immobilier rentable à Djerba.\nAccessible aux Tunisiens et aux Algériens.\nPrix : 570 000 DT\nUn bien rare situé dans un environnement calme, recherché et à fort potentiel.\nLocalisation:",
+      "attributs": [],
+      "note_moyenne": 0,
+      "nb_avis": 0,
+      "disponible": true,
+      "photos": [
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/VVD4.jpeg",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/VVD4-450x450.jpeg",
+          "alt": "VVD"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/VVD3.jpeg",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/VVD3-450x450.jpeg",
+          "alt": "VVD"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/VVD10.jpeg",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/VVD10-450x450.jpeg",
+          "alt": "VVD"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/VVD1.jpeg",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/VVD1-450x450.jpeg",
+          "alt": "VVD"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/VVD2.jpeg",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/VVD2-450x450.jpeg",
+          "alt": "VVD"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/VVD5.jpeg",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/VVD5-450x450.jpeg",
+          "alt": "VVD"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/VVD6.jpeg",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/VVD6-450x450.jpeg",
+          "alt": "VVD"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/VVD7.jpeg",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/VVD7-450x450.jpeg",
+          "alt": "VVD"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/VVD8.jpeg",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/VVD8-450x450.jpeg",
+          "alt": "VVD"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/VVD9.jpeg",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/VVD9-450x450.jpeg",
+          "alt": "VVD"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 2403,
+      "nom": "Villa avec piscine à Tezdaine, Djerba",
+      "slug": "villa-jasmin-villa-avec-piscine-a-tezdaine-djerba",
+      "url": "https://immosoleildjerba.com/produit/villa-jasmin-villa-avec-piscine-a-tezdaine-djerba/",
+      "categories": [
+        "Vente",
+        "Villas"
+      ],
+      "tags": [],
+      "prix": {
+        "montant": 630000,
+        "min": null,
+        "max": null,
+        "devise": "TND",
+        "affichage": "د.ت 630.000"
+      },
+      "points_cles": [],
+      "resume": "Villa à Tezdaine – 220 m², 4 chambres, piscine naturelle 📍 À 2 km de la plage 630 000 DT – Résidence ou investissement à Djerba",
+      "description": "Villa de charme à vendre à Tezdaine — À seulement 2 km de la plage\nOffrez-vous un cadre de vie paisible et élégant dans l’un des quartiers les plus recherchés de Tezdaine. Cette magnifique villa allie confort, espace et authenticité, idéale pour une résidence familiale ou un investissement de prestige.\nCaractéristiques :\n• 220 m² couverts\n• 676 m² de terrain\n• 80 m² de parking\n• 4 chambres dont une superbe suite parentale\n• Salle de bain moderne\n• Piscine naturelle avec cascade pour une ambiance unique et relaxante\n• Jardin et espaces extérieurs agréables\n📍 Emplacement stratégique à seulement 2 km de la plage.\n📄 Papier en règle chez Maître Ben Terdayet.\n💰 Prix : 630 000 DT",
+      "attributs": [],
+      "note_moyenne": 0,
+      "nb_avis": 0,
+      "disponible": true,
+      "photos": [
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-a-Tezdaine1.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-a-Tezdaine1-450x450.webp",
+          "alt": "Villa à Tezdaine"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-a-Tezdaine3.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-a-Tezdaine3-450x450.webp",
+          "alt": "Villa à Tezdaine"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-a-Tezdaine10.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-a-Tezdaine10-450x450.webp",
+          "alt": "Villa à Tezdaine"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-a-Tezdaine2.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-a-Tezdaine2-450x450.webp",
+          "alt": "Villa à Tezdaine"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-a-Tezdaine6.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-a-Tezdaine6-450x450.webp",
+          "alt": "Villa à Tezdaine"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-a-Tezdaine.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-a-Tezdaine-450x450.webp",
+          "alt": "Villa à Tezdaine"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-a-Tezdaine4.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-a-Tezdaine4-450x450.webp",
+          "alt": "Villa à Tezdaine"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-a-Tezdaine65.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-a-Tezdaine65-450x450.webp",
+          "alt": "Villa à Tezdaine"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 698,
+      "nom": "Villa Iness ",
+      "slug": "villa-iness",
+      "url": "https://immosoleildjerba.com/produit/villa-iness/",
+      "categories": [
+        "Location Vacances"
+      ],
+      "tags": [],
+      "prix": {
+        "montant": 250,
+        "min": null,
+        "max": null,
+        "devise": "TND",
+        "affichage": "د.ت 250"
+      },
+      "points_cles": [],
+      "resume": "Villa de luxe à Djerba, Dar Ines offre un cadre élégant et paisible idéal pour des vacances en famille ou entre amis. Elle dispose de 2 suites, 1 chambre, un salon lumineux, une cuisine équipée et une piscine privée avec un bel espace extérieur pour la détente. Disponible à partir de 250 TND/nuit selon la saison.\n📅 Vérifiez la disponibilité et réservez directement ci-dessous :",
+      "description": "Villa Iness\n6 voyageurs · 2 suites · 1 chambre · Salon moderne et lumineux · Cuisine ouverte haut de gamme · Piscine privée avec cascade · Jardin gazonné · Espace extérieur aménagé\nVilla Iness – Villa de luxe avec piscine à Djerba\nComposition intérieure :\nUn salon moderne et lumineux ouvert sur l’extérieurUne cuisine ouverte haut de gamme entièrement équipée2 suites élégantes et raffinées1 chambre confortableSalle d’eau contemporaine\nÀ l’extérieur :\nPiscine privée avec cascadeGrand jardin gazonnéEspace détente avec transatsEspace extérieur aménagé pour repas et relaxation\nTarifs de location\nMois\nPrix (DT)\nJuin\n400 DT\nJuillet\n600 DT\nAoût\n650 DT\nSeptembre\n400 DT\nÉquipements :\nPiscine privée avec cascade\nJardin spacieux\nCuisine équipée moderne\nClimatisation\nEspace repas extérieur\nLocalisation:",
+      "attributs": [
+        {
+          "nom": "saison",
+          "valeurs": [
+            "Juin",
+            "Juillet",
+            "Août",
+            "Septembre"
+          ]
+        }
+      ],
+      "note_moyenne": 5,
+      "nb_avis": 1,
+      "disponible": true,
+      "photos": [
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ines1.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ines1-450x450.webp",
+          "alt": "ines"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ines9.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ines9-450x450.webp",
+          "alt": "ines9"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ines8.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ines8-450x450.webp",
+          "alt": "ines"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ines7.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ines7-450x450.webp",
+          "alt": "ines7"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ines6.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ines6-450x450.webp",
+          "alt": "ines6"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ines5.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ines5-450x450.webp",
+          "alt": "ines5"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ines4.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ines4-450x450.webp",
+          "alt": "ines4"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ines10.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ines10-450x450.webp",
+          "alt": "ines10"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ines1.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ines1-450x450.webp",
+          "alt": "ines"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ines2.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ines2-450x450.webp",
+          "alt": "ines2"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ines3.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ines3-450x450.webp",
+          "alt": "ines3"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 691,
+      "nom": "Villa Ghalia ",
+      "slug": "villa-ghalia",
+      "url": "https://immosoleildjerba.com/produit/villa-ghalia/",
+      "categories": [
+        "Location Vacances"
+      ],
+      "tags": [],
+      "prix": {
+        "montant": 200,
+        "min": null,
+        "max": null,
+        "devise": "TND",
+        "affichage": "د.ت 200"
+      },
+      "points_cles": [],
+      "resume": "Villa Ghalia est une villa confortable à Djerba avec piscine privée sécurisée, idéale pour des vacances en famille ou entre amis. Située près du Borgo Mall avec accès facile sans piste, elle offre calme, intimité, garage, parking privé et espaces entièrement équipés pour un séjour agréable à Djerba.\n📅 Vérifiez la disponibilité et réservez directement ci-dessous :",
+      "description": "Villa Ghalia\n6 à 8 voyageurs · 3 chambres · 2 salles de bain · Piscine privée sécurisée · Garage · Parking privé · Coin barbecue · Jardin · Sans vis-à-vis\n📍 Borgo Mall, Djerba – Midoun\nVilla Ghalia – Villa moderne avec piscine privée à Djerba\nVilla Ghalia est une magnifique villa située à Djerba, idéale pour des vacances inoubliables en famille ou entre amis.Située dans un emplacement stratégique proche du Borgo Mall, avec accès facile sans piste, elle allie confort, intimité et praticité.\nCette villa vous offre :Piscine sécurisée pour profiter en toute tranquillitéGarage + parking privéSans vis-à-vis pour une intimité totaleEspaces de vie confortables et bien équipésCadre calme, parfait pour se détendre\nQue ce soit pour se relaxer au bord de la piscine ou profiter de la proximité des commodités, Villa Ghalia est le choix parfait pour un séjour réussi.\nTarifs de location\nMois\nPrix (DT)\nMai\n400 DT\nJuin\n500 DT\nJuillet\n500 DT\nAoût\n600 DT\nSeptembre\n500 DT\nÉquipements :\nWi-Fi haut débit\nParking privé\nClimatisation\nCuisine entièrement équipée\nCoin barbecue\nJardin\nLocalisation:",
+      "attributs": [
+        {
+          "nom": "saison",
+          "valeurs": [
+            "Mai",
+            "Juin",
+            "Juillet",
+            "Août",
+            "Septembre"
+          ]
+        }
+      ],
+      "note_moyenne": 5,
+      "nb_avis": 2,
+      "disponible": true,
+      "photos": [
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ghalia1.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ghalia1-450x450.webp",
+          "alt": "Villa Ghalia "
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-Ghalia3.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-Ghalia3-450x450.webp",
+          "alt": "Villa Ghalia "
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-Ghalia-13.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-Ghalia-13-450x450.webp",
+          "alt": "Villa Ghalia "
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ghalia1.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ghalia1-450x450.webp",
+          "alt": "Villa Ghalia "
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-Ghalia4.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-Ghalia4-450x450.webp",
+          "alt": "Villa Ghalia "
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-Ghalia2.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-Ghalia2-450x450.webp",
+          "alt": "Villa Ghalia "
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-Ghalia-12.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-Ghalia-12-450x450.webp",
+          "alt": "Villa Ghalia "
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-Ghalia-11.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-Ghalia-11-450x450.webp",
+          "alt": "Villa Ghalia "
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-Ghalia-10.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-Ghalia-10-450x450.webp",
+          "alt": "Villa Ghalia "
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-Ghalia-9.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-Ghalia-9-450x450.webp",
+          "alt": "Villa Ghalia "
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-Ghalia-8.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-Ghalia-8-450x450.webp",
+          "alt": "Villa Ghalia "
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-Ghalia-7.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-Ghalia-7-450x450.webp",
+          "alt": "Villa Ghalia "
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-Ghalia-6.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-Ghalia-6-450x450.webp",
+          "alt": "Villa Ghalia "
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 688,
+      "nom": "Villa Ilef ",
+      "slug": "villa-ilef",
+      "url": "https://immosoleildjerba.com/produit/villa-ilef/",
+      "categories": [
+        "Location Vacances"
+      ],
+      "tags": [],
+      "prix": {
+        "montant": 350,
+        "min": null,
+        "max": null,
+        "devise": "TND",
+        "affichage": "د.ت 350"
+      },
+      "points_cles": [],
+      "resume": "Villa Ilef à Djerba est une villa de luxe avec piscine privée à cascade, grand jardin et 4 chambres (suite parentale + 3 chambres). Moderne et entièrement équipée, elle offre un séjour confortable et raffiné à proximité du centre commercial Géant. Idéale pour des vacances en famille ou entre amis dans un cadre calme et prestigieux. Location saisonnière à partir de 680 TND / nuit.\n📅 Vérifiez la disponibilité et réservez directement ci-dessous :",
+      "description": "Villa Ilef\n8 voyageurs · 1 suite parentale · 3 chambres · Piscine privée avec cascade · Grand jardin gazonné · Cuisine équipée moderne · Proche du centre commercial Géant\nVilla Ilef – Villa de luxe avec piscine à cascade à Djerba\nUn petit coin de douceur où le bruit des cascades, le soleil et le calme du jardin créent une atmosphère unique pour se détendre et profiter pleinement du séjour.\nComposition intérieure :Un salon lumineux et confortableUne cuisine moderne entièrement équipéeUne suite parentale3 chambres spacieuses et bien aménagées\nÀ l’extérieur :Piscine privée avec cascadeGrand jardin gazonnéEspace détente pour transatsEnvironnement calme et agréable\nPoints forts :Piscine privée avec cascadeGrand jardin4 chambres (suite + 3 chambres)Proche du centre commercial GéantParfaite pour familles et groupes d’amis\nTarifs de location\nPériode\nPrix (DT)\nJuin & Septembre\n680 DT\nJuillet & Août\n1050 DT\nEquipement:\nPiscine privée\nJardin\nEspace repas extérieur\nLocalisation:",
+      "attributs": [
+        {
+          "nom": "Saison",
+          "valeurs": [
+            "Juin",
+            "Juillet",
+            "Août",
+            "Septembre"
+          ]
+        }
+      ],
+      "note_moyenne": 4,
+      "nb_avis": 1,
+      "disponible": true,
+      "photos": [
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ilef6.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ilef6-450x450.webp",
+          "alt": "ilefF"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ilef4.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ilef4-450x450.webp",
+          "alt": "ilef"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ilef1.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ilef1-450x450.webp",
+          "alt": "ilef"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ilef6.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ilef6-450x450.webp",
+          "alt": "ilefF"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ilef14.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ilef14-450x450.webp",
+          "alt": "ilef"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ilef2.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ilef2-450x450.webp",
+          "alt": "ilef"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ilef3.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ilef3-450x450.webp",
+          "alt": "ilef"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ilef5.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ilef5-450x450.webp",
+          "alt": "ilef"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ilef7.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ilef7-450x450.webp",
+          "alt": "ilef"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ilef8.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ilef8-450x450.webp",
+          "alt": "ilef"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ilef9.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ilef9-450x450.webp",
+          "alt": "ilef"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ilef10.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ilef10-450x450.webp",
+          "alt": "ilef"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ilef11.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ilef11-450x450.webp",
+          "alt": "ilef"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ilef12.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ilef12-450x450.webp",
+          "alt": "ilef"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ilef13.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/ilef13-450x450.webp",
+          "alt": "ilef"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 243,
+      "nom": "Villa Jouria",
+      "slug": "villa-jouria",
+      "url": "https://immosoleildjerba.com/produit/villa-jouria/",
+      "categories": [
+        "Location Vacances"
+      ],
+      "tags": [],
+      "prix": {
+        "montant": 350,
+        "min": null,
+        "max": null,
+        "devise": "TND",
+        "affichage": "د.ت 350"
+      },
+      "points_cles": [],
+      "resume": "Villa de luxe à Djerba, située dans un quartier calme et prestigieux. Villa Jouria offre un cadre élégant et confortable, idéal pour des vacances en famille ou entre amis.\nElle dispose de 3 suites avec salles de bain privatives, cuisine moderne équipée, climatisation, TV et Wi-Fi haut débit. À l’extérieur, profitez d’une grande piscine privée, jacuzzi, cascade et espace barbecue.\nParfaite pour une location de villa à Djerba avec piscine, dans un environnement privé et sans vis-à-vis.\n📅 Vérifiez la disponibilité et réservez directement ci-dessous :",
+      "description": "Avril 2026\nMai 2026\nJuin 2026\nJuillet 2026\nAoût 2026\nSeptembre 2026\nOctobre 2026\nNovembre 2026\nDécembre 2026\nJanvier 2027\nFévrier 2027\nMars 2027\nAvril 2027\nMai 2027\nJuin 2027\nJuillet 2027\nL\nM\nM\nJ\nV\nS\nD\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\nDisponibleRéservéPassage\n.wpsbc-container.wpsbc-calendar-1 .wpsbc-legend-item-icon-1 div:first-of-type { background-color: #ddffcc; }.wpsbc-container.wpsbc-calendar-1 .wpsbc-legend-item-icon-1 div:nth-of-type(2) { background-color: transparent; }.wpsbc-container.wpsbc-calendar-1 .wpsbc-legend-item-icon-1 div:first-of-type svg { fill: #ddffcc; }.wpsbc-container.wpsbc-calendar-1 .wpsbc-legend-item-icon-1 div:nth-of-type(2) svg { fill: transparent; }.wpsbc-container.wpsbc-calendar-1 .wpsbc-legend-item-icon-2 div:first-of-type { background-color: #ffc0bd; }.wpsbc-container.wpsbc-calendar-1 .wpsbc-legend-item-icon-2 div:nth-of-type(2) { background-color: transparent; }.wpsbc-container.wpsbc-calendar-1 .wpsbc-legend-item-icon-2 div:first-of-type svg { fill: #ffc0bd; }.wpsbc-container.wpsbc-calendar-1 .wpsbc-legend-item-icon-2 div:nth-of-type(2) svg { fill: transparent; }.wpsbc-container.wpsbc-calendar-1 .wpsbc-legend-item-icon-3 div:first-of-type { background-color: #fee2a0; }.wpsbc-container.wpsbc-calendar-1 .wpsbc-legend-item-icon-3 div:nth-of-type(2) { background-color: transparent; }.wpsbc-container.wpsbc-calendar-1 .wpsbc-legend-item-icon-3 div:first-of-type svg { fill: #fee2a0; }.wpsbc-container.wpsbc-calendar-1 .wpsbc-legend-item-icon-3 div:nth-of-type(2) svg { fill: transparent; }\nVilla Jouria\n6 à 7 voyageurs · 3 suites · 3 salles de bain · Piscine privée (14m/4 ) · Jacuzzi · Jardin · Parking privé sécurisé\n📍 Djerba – Quartier résidentiel calme\nVilla Jouria – Villa de luxe avec piscine privée à Djerba\nDescription :La Villa Jouria vous accueille dans un cadre luxueux, calme et raffiné au cœur de Djerba. Idéale pour des vacances en famille ou entre amis, elle offre confort, intimité et élégance dans un environnement sans vis-à-vis.\nComposition intérieure :\nUn salon spacieux et lumineux avec espace repasUne cuisine moderne entièrement équipée (four, micro-ondes, lave-vaisselle, machine à café…)3 suites confortables avec salles de bain privativesEspaces de vie lumineux et décorés avec goûtClimatisation, TV et Wi-Fi haut débit dans toute la villa\nÀ l’extérieur :\nGrande piscine privée (14m/4)Jacuzzi intégré pour moments de détenteCascade d’eau et éclairage LED pour ambiance nocturneEspace barbecue convivialJardin aménagé et espaces détenteEnvironnement calme et sans vis-à-vis\nStationnement :\nParking privé sécurisé sur place\nEmplacement :\nQuartier résidentiel calme – DjerbaProche commodités et plages en voiture\nTarifs de location\nPériode\nPrix (DT)\nJuin & Septembre\n680 DT\nJuillet & Août\n850 DT\nÉquipements :\nPiscine privée\nClimatisation\nCuisine entièrement équipée\nBarbecue\nWI-Fi\nParking privé sécurisé\nhttps://immosoleildjerba.com/wp-content/uploads/2026/06/Juria.mp4\nLocalisation:",
+      "attributs": [
+        {
+          "nom": "saison",
+          "valeurs": [
+            "Juillet",
+            "Août"
+          ]
+        }
+      ],
+      "note_moyenne": 4.83,
+      "nb_avis": 6,
+      "disponible": true,
+      "photos": [
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes-450x450.webp",
+          "alt": "juria"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes9.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes9-450x450.webp",
+          "alt": "juria"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes8.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes8-450x450.webp",
+          "alt": "juria"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes7.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes7-450x450.webp",
+          "alt": "juria"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes6.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes6-450x450.webp",
+          "alt": "juria"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes4.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes4-450x450.webp",
+          "alt": "juria"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes3.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes3-450x450.webp",
+          "alt": "juria"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes2.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes2-450x450.webp",
+          "alt": "juria"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes1.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes1-450x450.webp",
+          "alt": "juria"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes-450x450.webp",
+          "alt": "juria"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        }
+      ],
+      "videos": [
+        "https://immosoleildjerba.com/wp-content/uploads/2026/06/Juria.mp4"
+      ]
+    },
+    {
+      "id": 238,
+      "nom": "Maison du Bonheur",
+      "slug": "maison-du-bonheur",
+      "url": "https://immosoleildjerba.com/produit/maison-du-bonheur/",
+      "categories": [
+        "Location Vacances"
+      ],
+      "tags": [],
+      "prix": {
+        "montant": 340,
+        "min": 340,
+        "max": 510,
+        "devise": "TND",
+        "affichage": "د.ت 340 – د.ت 510Plage de prix : د.ت 340 à د.ت 510"
+      },
+      "points_cles": [],
+      "resume": "Maison du Bonheur est une maison S+2 moderne à Djerba avec piscine privée, salon lumineux, cuisine équipée et grand espace extérieur. Idéale pour des vacances en famille ou entre amis dans un cadre calme et confortable. Location saisonnière à partir de 340 TND / nuit.\n📅 Vérifiez la disponibilité et réservez directement ci-dessous :",
+      "description": "Maison du Bonheur\n4 voyageurs · 2 chambres · Salon lumineux · Cuisine équipée · Salle d’eau moderne · Piscine privée · Grand espace extérieur · Cadre calme et intimiste\nMaison du Bonheur – Maison S+2 avec piscine privée à Djerba\nComposition intérieure :\nUn salon lumineux et confortable\nUne cuisine équipée fonctionnelle\n2 chambres spacieuses\nSalle d’eau moderne\nÀ l’extérieur :\nPiscine privée\nGrand espace extérieur aménagé\nEspace détente pour profiter du soleil\nCadre calme et agréable\nTarifs de location\nPériode\nPrix (DT)\nAvril\n340 DT\nMai\n340 DT\nJuin (1–15)\n391 DT\nJuin (16–30)\n510 DT\nÉquipements :\nPiscine privée\nCuisine équipée\nEspace extérieur\nClimatisation\nLocalisation:",
+      "attributs": [
+        {
+          "nom": "saison",
+          "valeurs": [
+            "Avril",
+            "Mai",
+            "Juin 1–15",
+            "Juin 16–30"
+          ]
+        }
+      ],
+      "note_moyenne": 0,
+      "nb_avis": 0,
+      "disponible": true,
+      "photos": [
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-450x450.webp",
+          "alt": "Maison du Bonheur"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-15.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-15-450x450.webp",
+          "alt": "Maison du Bonheur"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-S.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-S-450x450.webp",
+          "alt": "Maison du Bonheur"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-C.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-C-450x450.webp",
+          "alt": "Maison du Bonheur"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-51.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-51-450x450.webp",
+          "alt": "Maison du Bonheur"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-22.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-22-450x450.webp",
+          "alt": "Maison du Bonheur"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-17.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-17-450x450.webp",
+          "alt": "Maison du Bonheur"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-S1.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-S1-450x450.webp",
+          "alt": "Maison du Bonheur"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-13.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-13-450x450.webp",
+          "alt": "Maison du Bonheur"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-12.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-12-450x450.webp",
+          "alt": "Maison du Bonheur"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-10.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-10-450x450.webp",
+          "alt": "Maison du Bonheur"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-9.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-9-450x450.webp",
+          "alt": "Maison du Bonheur"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-8.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-8-450x450.webp",
+          "alt": "Maison du Bonheur"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-06.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-06-450x450.webp",
+          "alt": "Maison du Bonheur"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-4.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-4-450x450.webp",
+          "alt": "Maison du Bonheur"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-3.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-3-450x450.webp",
+          "alt": "Maison du Bonheur"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-2.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-2-450x450.webp",
+          "alt": "Maison du Bonheur"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-1.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-1-450x450.webp",
+          "alt": "Maison du Bonheur"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Maison-du-Bonheur-450x450.webp",
+          "alt": "Maison du Bonheur"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 235,
+      "nom": "Villa Jasmin ",
+      "slug": "villa-jasmin",
+      "url": "https://immosoleildjerba.com/produit/villa-jasmin/",
+      "categories": [
+        "Location Vacances"
+      ],
+      "tags": [],
+      "prix": {
+        "montant": 150,
+        "min": null,
+        "max": null,
+        "devise": "TND",
+        "affichage": "د.ت 150"
+      },
+      "points_cles": [],
+      "resume": "Villa Jasmin à Tezdaine, Djerba est une villa spacieuse avec 4 chambres, idéale pour les familles ou les groupes d’amis. Elle offre un grand espace extérieur dans un cadre calme et agréable, parfait pour des vacances reposantes. Située à seulement 2 km des plages de Yati et Saguia, elle combine confort, tranquillité et proximité de la mer.\n📅 Vérifiez la disponibilité et réservez directement ci-dessous :",
+      "description": "Villa Jasmin\n8 voyageurs · 4 chambres · Grand espace extérieur · Ambiance familiale · Proche plage (2 km)\n📍 Tezdaine, Djerba – Tunisie\nVilla Jasmin – Maison de vacances avec charme à Djerba\nCharmante villa située à Tezdaine, au cœur de Djerba, à seulement 2 km des plages de Yati et Saguia. Idéale pour des séjours en famille ou entre amis, dans un cadre calme, reposant et convivial.\nComposition intérieure :\nSalon lumineux et confortable\n4 chambres spacieuses et bien aérées\nEspaces de vie adaptés aux familles\nAmbiance calme et reposante\nIntérieur pensé pour le confort et la détente\nÀ l’extérieur :\nGrand espace extérieur aménagé\nCoin détente en plein air\nEnvironnement calme et privé\nIdéal pour profiter du soleil de Djerba\nProximité immédiate des plages\nTarifs de location\nPériode\nPrix (DT)\nJuillet\n650 DT\nAoût\n750 DT\nÉquipements :\nClimatisation\nMobilier de jardin\nGrand espace extérieur aménagé\nWi-Fi\nDraps et serviettes fournis\nLave-linge\nLocalisation:",
+      "attributs": [
+        {
+          "nom": "saison",
+          "valeurs": [
+            "Juillet",
+            "Août"
+          ]
+        }
+      ],
+      "note_moyenne": 4.83,
+      "nb_avis": 6,
+      "disponible": true,
+      "photos": [
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/jasmin3.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/jasmin3-450x450.webp",
+          "alt": "jasmin"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/jasmin.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/jasmin-450x450.webp",
+          "alt": "jasmin"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/jasmin2.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/jasmin2-450x450.webp",
+          "alt": "jasmin"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/jasmin3.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/jasmin3-450x450.webp",
+          "alt": "jasmin"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/jasmin7.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/jasmin7-450x450.webp",
+          "alt": "jasmin"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/jasmin6.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/jasmin6-450x450.webp",
+          "alt": "jasmin"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/jasmin5.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/jasmin5-450x450.webp",
+          "alt": "jasmin"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/jasmin4.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/jasmin4-450x450.webp",
+          "alt": "jasmin"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/jasmin1.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/jasmin1-450x450.webp",
+          "alt": "jasmin"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 234,
+      "nom": "Maison Yoza",
+      "slug": "maison-yoza",
+      "url": "https://immosoleildjerba.com/produit/maison-yoza/",
+      "categories": [
+        "Location Vacances"
+      ],
+      "tags": [],
+      "prix": {
+        "montant": 340,
+        "min": 340,
+        "max": 450,
+        "devise": "TND",
+        "affichage": "د.ت 340 – د.ت 450Plage de prix : د.ت 340 à د.ت 450"
+      },
+      "points_cles": [],
+      "resume": "Maison Yoza est une maison S+1 moderne et élégante à Djerba, pensée pour un séjour confortable en couple ou en petite famille. Elle offre une chambre lumineuse, un salon cosy, une cuisine entièrement équipée et un cadre paisible, idéal pour des vacances reposantes et agréables. Location saisonnière à partir de 340 TND / nuit.\n📅 Vérifiez la disponibilité et réservez directement ci-dessous :",
+      "description": "Maison Yoza\n2 voyageurs · 1 chambre · Salon cosy · Cuisine équipée · Salle d’eau moderne · Cadre calme et agréable · Séjour confortable et intimiste\nMaison Yoza – Maison S+1 moderne et élégante à Djerba\nComposition intérieure :\nUn salon cosy et bien aménagé\nUne cuisine fonctionnelle entièrement équipée\n1 chambre spacieuse et lumineuse\nSalle d’eau moderne et propre\nÀ l’extérieur :\nEnvironnement calme et paisible\nEspace détente idéal pour se relaxer\nCadre agréable pour un séjour reposant\nTarifs de location\nPériode\nPrix (DT)\nJuin (1–15)\n340 DT\nJuin (16–30)\n391 DT\nJuillet\n450 DT\nAoût\n450 DT\nÉquipements :\nCuisine équipée\nClimatisation\nEspace confortable et intimiste\nLocalisation:",
+      "attributs": [
+        {
+          "nom": "saison",
+          "valeurs": [
+            "Juin 1–15",
+            "Juin 16–30",
+            "Juillet",
+            "Août"
+          ]
+        }
+      ],
+      "note_moyenne": 0,
+      "nb_avis": 0,
+      "disponible": true,
+      "photos": [
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza-450x450.webp",
+          "alt": "Maison Yoza"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-18-at-11.13.48-2.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-18-at-11.13.48-2-450x450.webp",
+          "alt": "Maison YozaF"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza13.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza13-450x450.webp",
+          "alt": "Maison Yoza"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza-450x450.webp",
+          "alt": "Maison Yoza"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza3.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza3-450x450.webp",
+          "alt": "Maison Yoza"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-18-at-11.13.47-3.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-18-at-11.13.47-3-450x450.webp",
+          "alt": "Maison Yoza"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza4.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza4-450x450.webp",
+          "alt": "Maison Yoza"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza1.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza1-450x450.webp",
+          "alt": "Maison Yoza"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza2.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza2-450x450.webp",
+          "alt": "Maison Yoza"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza5.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza5-450x450.webp",
+          "alt": "Maison Yoza"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza6.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza6-450x450.webp",
+          "alt": "Maison Yoza"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza8.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza8-450x450.webp",
+          "alt": "Maison Yoza"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza9.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza9-450x450.webp",
+          "alt": "Maison Yoza"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza10.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza10-450x450.webp",
+          "alt": "Maison Yoza"
+        },
+        {
+          "url": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza11.webp",
+          "miniature": "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza11-450x450.webp",
+          "alt": "Maison Yoza"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+          "miniature": "",
+          "alt": "(image dans la description)"
+        }
+      ],
+      "videos": []
+    }
+  ]
+}

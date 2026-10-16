@@ -1,0 +1,28 @@
+.sb { color: var(--ink); border-radius: var(--radius); overflow: hidden; box-shadow: var(--shadow-lg); }
+.sb-tabs { display: flex; gap: 4px; padding: 14px 14px 0; border-bottom: 1px solid var(--line); }
+.sb-tabs button { height: 44px; padding: 0 22px; border-radius: var(--radius-sm) var(--radius-sm) 0 0; font-weight: 600; font-size: 12px; letter-spacing: .1em; text-transform: uppercase; color: var(--ink-2); margin-bottom: -1px; }
+.sb-tabs button:hover { color: var(--ink); }
+.sb-tabs button.on { background: var(--navy); color: #fff; border-radius: var(--radius-sm); margin-bottom: 8px; }
+.sb-fields { display: flex; align-items: stretch; }
+.sb-field { flex: 1 1 0; display: flex; flex-direction: column; gap: 6px; padding: 16px 22px; border-right: 1px solid var(--line); min-width: 0; }
+.sb-field:last-of-type { border-right: 0; }
+.sb-select { border: 0; padding-left: 0; height: 28px; font-weight: 500; font-size: 16px; background-position: right 0 center; }
+.sb-select:focus { box-shadow: none; }
+.sb-submit { margin: 14px 14px 14px 6px; align-self: center; }
+@media (max-width: 900px) {
+  .sb-tabs button { padding: 0 14px; font-size: 14px; }
+  .sb-fields { flex-direction: column; padding: 8px 14px 14px; gap: 8px; }
+  .sb-field { border: 1px solid var(--line); border-radius: var(--radius-sm); background: var(--bg); padding: 10px 14px; }
+  .sb-field .label { display: none; }
+  .sb-select { background-color: transparent; font-size: 16px; height: 32px; }
+  .sb-submit { margin: 4px 0 0; width: 100%; }
+}
+@media (max-width: 480px) { .sb-tabs { overflow-x: auto; } .sb-tabs button { white-space: nowrap; } }
+/* Champs séjour (dates / voyageurs) intégrés à la barre */
+.sb { overflow: visible; }
+.sb-field-wide { flex: 1.6 1 0; }
+.sb-field .bk-dates, .sb-field .bk-guests { border: 0; background: transparent; padding: 0; box-shadow: none; }
+.sb-field .bk-cell { padding: 0 0 0 0; }
+.sb-field .bk-dates .bk-cell + .bk-cell { padding-left: 16px; }
+.sb-field .bk-cell > span:last-child { font-size: 16px; }
+@media (max-width: 900px) { .sb-field .bk-cell .label { display: none; } }

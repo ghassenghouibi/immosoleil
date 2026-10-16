@@ -1,0 +1,13 @@
+.ftr { background: var(--navy); color: #b7c3cc; padding-block: 72px 28px; margin-top: auto; border-top: 3px solid var(--gold); }
+.ftr-grid { display: grid; grid-template-columns: 1.6fr 1fr 1fr 1.2fr; gap: 40px; }
+.ftr-blurb { margin-top: 18px; max-width: 360px; line-height: 1.6; font-size: 14.5px; }
+.ftr h4 { color: #fff; font-family: var(--font-body); font-size: 11.5px; font-weight: 600; letter-spacing: .2em; text-transform: uppercase; margin-bottom: 18px; }
+.ftr li { margin-bottom: 10px; font-size: 14.5px; display: flex; flex-direction: column; }
+.ftr li a:hover { color: #fff; }
+.ftr-phone { font-size: 13px; color: #8798a4; }
+.ftr-social { width: 38px; height: 38px; border-radius: var(--radius-sm); border: 1px solid rgba(255,255,255,.14); display: inline-flex; align-items: center; justify-content: center; color: #fff; }
+.ftr-social:hover { background: rgba(255,255,255,.08); }
+.ftr-bottom { border-top: 1px solid rgba(255,255,255,.08); margin-top: 48px; padding-top: 24px; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 12px; font-size: 13.5px; }
+.ftr-bottom a:hover { color: #fff; }
+@media (max-width: 900px) { .ftr-grid { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 560px) { .ftr-grid { grid-template-columns: 1fr; gap: 28px; } }

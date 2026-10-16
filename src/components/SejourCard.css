@@ -1,0 +1,36 @@
+.sc { position: relative; display: flex; flex-direction: column; gap: 12px; }
+.sc-media { position: relative; display: block; border-radius: var(--radius); overflow: hidden; aspect-ratio: 20 / 19; background: var(--line-2); isolation: isolate; }
+.sc-track { display: flex; height: 100%; transition: transform .45s cubic-bezier(.2,.7,.2,1); }
+.sc-photo { flex: 0 0 100%; height: 100%; }
+.sc-photo.ph::after { display: none; }
+.sc-nav { position: absolute; top: 50%; transform: translateY(-50%); z-index: 2; width: 32px; height: 32px; border-radius: 50%; background: rgba(255,255,255,.92); color: var(--ink); display: inline-flex; align-items: center; justify-content: center; opacity: 0; transition: opacity .2s, transform .2s; box-shadow: 0 2px 8px rgba(0,0,0,.15); }
+.sc-prev { left: 10px; } .sc-next { right: 10px; }
+.sc:hover .sc-nav { opacity: 1; }
+.sc-nav:hover { transform: translateY(-50%) scale(1.06); }
+.sc-dots { position: absolute; bottom: 12px; left: 50%; transform: translateX(-50%); z-index: 2; display: flex; gap: 5px; }
+.sc-dots i { width: 6px; height: 6px; border-radius: 50%; background: rgba(255,255,255,.6); }
+.sc-dots i.on { background: #fff; }
+.sc-tags { position: absolute; top: 12px; left: 12px; z-index: 2; display: flex; gap: 6px; flex-wrap: wrap; padding-right: 48px; }
+.sc-tags span { height: 28px; padding: 0 10px; border-radius: 999px; background: rgba(255,255,255,.94); color: var(--ink); font-size: 12px; font-weight: 600; display: inline-flex; align-items: center; gap: 5px; box-shadow: 0 1px 4px rgba(0,0,0,.08); }
+.sc-tags svg { color: var(--blue); }
+.sc-tags .sc-tag-off { background: var(--navy); color: #fff; }
+.sc-fav { position: absolute; top: 10px; right: 10px; z-index: 3; width: 38px; height: 38px; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; color: #fff; filter: drop-shadow(0 1px 3px rgba(0,0,0,.4)); transition: transform .15s; }
+.sc-fav:hover { transform: scale(1.1); }
+.sc-fav.on { color: #e11d48; }
+.sc-body { display: flex; flex-direction: column; gap: 3px; }
+.sc-title { font-family: var(--font-display); font-size: 19px; font-weight: 500; line-height: 1.25; }
+.sc-cap { display: inline-flex; align-items: center; gap: 4px; font-size: 13.5px; color: var(--ink-2); white-space: nowrap; padding-top: 2px; }
+.sc-line { display: flex; align-items: center; gap: 5px; color: var(--muted); font-size: 14px; }
+.sc-price { margin-top: 6px; font-size: 15px; }
+.sc-price strong { font-weight: 650; }
+.sc-price span { color: var(--muted); }
+.sc:hover .sc-photo img { transform: scale(1.03); }
+.sc-photo img { transition: transform .8s cubic-bezier(.2,.7,.2,1); }
+.sc-off .sc-media { opacity: .55; }
+@media (hover: none) { .sc-nav { display: none; } }
+
+/* Grille de cartes villa */
+.sj-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 36px 24px; }
+@media (max-width: 1200px) { .sj-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+@media (max-width: 900px) { .sj-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 560px) { .sj-grid { grid-template-columns: 1fr; } }

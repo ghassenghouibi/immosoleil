@@ -1,0 +1,37 @@
+.fb { background: #fff; border-bottom: 1px solid var(--line); position: sticky; top: 92px; z-index: 40; }
+.fb-row { display: flex; align-items: center; gap: 8px; padding-block: 14px; overflow-x: auto; scrollbar-width: none; }
+.fb-row::-webkit-scrollbar { display: none; }
+.fb-spacer { flex: 1; }
+.fb-active { border-color: var(--blue); background: var(--sky-soft); color: var(--blue); font-weight: 600; }
+.fb-static { cursor: default; }
+.fb-dd { position: relative; }
+.fb-dd summary { list-style: none; cursor: pointer; user-select: none; }
+.fb-dd summary::-webkit-details-marker { display: none; }
+.fb-dd.on summary { border-color: var(--blue); color: var(--blue); font-weight: 600; background: var(--sky-soft); }
+.fb-menu { position: absolute; top: calc(100% + 8px); left: 0; z-index: 60; min-width: 230px; padding: 6px; background: #fff; display: flex; flex-direction: column; box-shadow: var(--shadow-lg); }
+.fb-menu button { text-align: left; padding: 10px 12px; border-radius: var(--radius-sm); font-size: 14px; display: flex; justify-content: space-between; }
+.fb-menu button:hover { background: var(--line-2); }
+.lp { padding-block: 28px 72px; }
+.lp-crumb { margin-bottom: 14px; }
+.lp-crumb a:hover { text-decoration: underline; }
+.lp-sort { border: 0; background: transparent; font-weight: 600; outline: none; padding-right: 4px; }
+.lp-view { display: flex; border: 1px solid #d9d1c3; border-radius: var(--radius-sm); overflow: hidden; background: #fff; }
+.lp-view button { width: 46px; height: 42px; display: inline-flex; align-items: center; justify-content: center; color: var(--muted); }
+.lp-view button.on { background: var(--navy); color: #fff; }
+.lp-layout { display: grid; grid-template-columns: minmax(0, 1fr) 380px; gap: 28px; align-items: start; }
+.lp-side { display: flex; flex-direction: column; gap: 20px; position: sticky; top: 160px; }
+.lp-map { overflow: hidden; }
+.lp-map .mm { border: 0; border-radius: 0; }
+.lp-map-foot { padding: 14px 18px; }
+.lp-alert, .lp-social { padding: 22px 24px; }
+.lp-empty { padding: 48px 32px; text-align: center; display: flex; flex-direction: column; align-items: center; }
+@media (max-width: 1100px) {
+  .lp-layout { grid-template-columns: 1fr; }
+  .lp-side { position: static; }
+  .lp-map { display: none; }
+  .lp-layout.map-on .lp-map { display: block; }
+  .lp-side { flex-direction: row; flex-wrap: wrap; }
+  .lp-side > * { flex: 1 1 320px; }
+}
+@media (max-width: 900px) { .fb { top: 72px; } }
+@media (max-width: 640px) { .lp-grid { grid-template-columns: 1fr; } }

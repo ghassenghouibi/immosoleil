@@ -1,0 +1,6 @@
+.sat { position: relative; overflow: hidden; border-radius: var(--radius); background: #1d2a1f; user-select: none; }
+.sat img { position: absolute; width: 256px; height: 256px; max-width: none; pointer-events: none; }
+.sat::after { content: ''; position: absolute; inset: 0; background: radial-gradient(ellipse at center, transparent 40%, rgba(11,20,36,.45) 100%); pointer-events: none; }
+.sat-zone { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); z-index: 1; border-radius: 50%; border: 2px dashed var(--gold); background: rgba(150,193,30,.18); box-shadow: 0 0 0 9999px rgba(11,20,36,.18); }
+.sat-label { position: absolute; left: 16px; top: 16px; z-index: 2; height: 34px; padding: 0 12px; border-radius: var(--radius-sm); background: rgba(255,255,255,.95); color: var(--navy); font-size: 13px; font-weight: 600; display: inline-flex; align-items: center; box-shadow: var(--shadow); }
+.sat-credit { position: absolute; right: 8px; bottom: 6px; z-index: 2; font-size: 10.5px; color: rgba(255,255,255,.8); text-shadow: 0 1px 2px rgba(0,0,0,.6); }

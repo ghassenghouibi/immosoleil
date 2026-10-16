@@ -1,0 +1,1626 @@
+{
+ "source": "https://immosoleildjerba.com",
+ "date_extraction": "2026-10-16T10:36:13.779Z",
+ "nb_annonces": 18,
+ "annonces": [
+  {
+   "id": "3907",
+   "reference": "ISD3907",
+   "titre": "Villa Chbabya",
+   "transaction": "Vente",
+   "disponibilite": "disponible",
+   "type_bien": "Maison / Villa",
+   "prix": 650000,
+   "prix_unite": null,
+   "devise": "TND",
+   "prix_texte": "د.ت 650.000",
+   "surface_habitable_m2": null,
+   "surface_terrain_m2": 413,
+   "surface_m2": 413,
+   "chambres": 3,
+   "suites": 1,
+   "sdb": null,
+   "pays": "Tunisie",
+   "gouvernorat": "Djerba",
+   "delegation": "Chbabya",
+   "localite": "Chbabya",
+   "adresse_complete": "Chbabya, Djerba, Tunisie",
+   "description": "Notre agence vous propose cette jolie villa située dans un quartier calme et agréable à Chbabya. Elle offre un cadre de vie confortable, moderne et convivial, idéal aussi bien pour une résidence principale que pour un investissement immobilier. Cette villa représente un choix idéal aussi bien pour une résidence principale que pour un investissement immobilier à Djerba.",
+   "sections": [
+    {
+     "titre": null,
+     "texte": [
+      "Notre agence vous propose cette jolie villa située dans un quartier calme et agréable à Chbabya. Elle offre un cadre de vie confortable, moderne et convivial, idéal aussi bien pour une résidence principale que pour un investissement immobilier."
+     ],
+     "liste": []
+    },
+    {
+     "titre": "Elle se compose de",
+     "texte": [],
+     "liste": [
+      "Un grand salon lumineux, ouvert sur l’espace piscine",
+      "Une cuisine ouverte sur le salon, idéale pour profiter pleinement des moments en famille",
+      "Deux chambres",
+      "Une salle d’eau commune",
+      "Une suite parentale, avec un accès direct à l’espace extérieur",
+      "Un espace extérieur avec piscine, parfait pour se détendre et profiter des belles journées"
+     ]
+    },
+    {
+     "titre": "Points forts",
+     "texte": [],
+     "liste": [
+      "Villa confortable et conviviale",
+      "Piscine privée",
+      "Espace extérieur agréable",
+      "Quartier calme à Chbabya",
+      "Titre bleu global",
+      "Excellente opportunité d’investissement"
+     ]
+    },
+    {
+     "titre": "Caractéristiques",
+     "texte": [
+      "Cette villa représente un choix idéal aussi bien pour une résidence principale que pour un investissement immobilier à Djerba."
+     ],
+     "liste": [
+      "Terrain : 413 m²",
+      "Emplacement : Chbabya"
+     ]
+    }
+   ],
+   "points_cles": [],
+   "agence": "Immo Soleil Djerba",
+   "telephones": [],
+   "rubriques": [
+    "acheter"
+   ],
+   "photos": [
+    "https://immosoleildjerba.com/wp-content/uploads/2026/10/chbabya1-1.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/10/chbabya1.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/10/834720501_1604827401397231_3142283077753202465_n-3.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/10/838946854_962935612945447_867284339187840169_n.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/10/839959866_1508258421055169_7321021404177385352_n.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/10/chbabya2.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/10/830871474_1454016106576365_5423243632386255655_n.webp"
+   ],
+   "nb_photos": 7,
+   "videos": [],
+   "url": "https://immosoleildjerba.com/produit/villa-chbabya/",
+   "autres_champs": {
+    "Quartier": "Chbabya",
+    "Titre": "Titre bleu"
+   },
+   "statut_annonce": null
+  },
+  {
+   "id": "3901",
+   "reference": "ISD3901",
+   "titre": "Villa Jouria",
+   "transaction": "Location",
+   "disponibilite": "disponible",
+   "type_bien": "Maison / Villa",
+   "prix": 4000,
+   "prix_unite": null,
+   "devise": "TND",
+   "prix_texte": "",
+   "surface_habitable_m2": null,
+   "surface_terrain_m2": null,
+   "surface_m2": null,
+   "chambres": 3,
+   "suites": 3,
+   "sdb": null,
+   "pays": "Tunisie",
+   "gouvernorat": "Djerba",
+   "delegation": "Djerba",
+   "localite": "Djerba",
+   "adresse_complete": "Djerba, Tunisie",
+   "description": "La Villa Jouria vous accueille dans un cadre luxueux, calme et raffiné au cœur de Djerba. Idéale pour des vacances en famille ou entre amis, elle offre confort, intimité et élégance dans un environnement sans vis-à-vis. Une cuisine moderne entièrement équipée (four, micro-ondes, lave-vaisselle, machine à café…)",
+   "sections": [
+    {
+     "titre": null,
+     "texte": [
+      "La Villa Jouria vous accueille dans un cadre luxueux, calme et raffiné au cœur de Djerba. Idéale pour des vacances en famille ou entre amis, elle offre confort, intimité et élégance dans un environnement sans vis-à-vis."
+     ],
+     "liste": []
+    },
+    {
+     "titre": "Composition intérieure",
+     "texte": [
+      "Une cuisine moderne entièrement équipée (four, micro-ondes, lave-vaisselle, machine à café…)"
+     ],
+     "liste": [
+      "Un salon spacieux et lumineux avec espace repas",
+      "3 suites confortables avec salles de bain privatives",
+      "Espaces de vie lumineux et décorés avec goût",
+      "Climatisation, TV et Wi-Fi haut débit dans toute la villa"
+     ]
+    },
+    {
+     "titre": "À l’extérieur",
+     "texte": [],
+     "liste": [
+      "Grande piscine privée (14m/4)",
+      "Jacuzzi intégré pour moments de détente",
+      "Cascade d’eau et éclairage LED pour ambiance nocturne",
+      "Espace barbecue convivial",
+      "Jardin aménagé et espaces détente",
+      "Environnement calme et sans vis-à-vis"
+     ]
+    },
+    {
+     "titre": "Stationnement",
+     "texte": [],
+     "liste": [
+      "Parking privé sécurisé sur place"
+     ]
+    },
+    {
+     "titre": "Emplacement",
+     "texte": [],
+     "liste": [
+      "Quartier résidentiel calme – Djerba",
+      "Proche commodités et plages en voiture"
+     ]
+    }
+   ],
+   "points_cles": [],
+   "agence": "Immo Soleil Djerba",
+   "telephones": [],
+   "rubriques": [
+    "louer"
+   ],
+   "photos": [
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes1-1024x473.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes4-1024x473.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes9-1024x473.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes3-1024x473.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes-1024x473.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes2-1024x473.webp"
+   ],
+   "nb_photos": 6,
+   "videos": [],
+   "url": "https://immosoleildjerba.com/produit/villa-jouria-2/",
+   "autres_champs": {
+    "Quartier": "Djerba",
+    "Période": "Location longue durée (octobre à décembre)"
+   },
+   "statut_annonce": null
+  },
+  {
+   "id": "3873",
+   "reference": "ISD3873",
+   "titre": "Villa Zina",
+   "transaction": "Location",
+   "disponibilite": "disponible",
+   "type_bien": "Maison / Villa",
+   "prix": 2000,
+   "prix_unite": null,
+   "devise": "TND",
+   "prix_texte": "د.ت 2.000",
+   "surface_habitable_m2": null,
+   "surface_terrain_m2": null,
+   "surface_m2": null,
+   "chambres": 4,
+   "suites": null,
+   "sdb": null,
+   "pays": "Tunisie",
+   "gouvernorat": "Djerba",
+   "delegation": "Djerba",
+   "localite": "Djerba",
+   "adresse_complete": "Djerba, Tunisie",
+   "description": "Découvrez Villa Zina, une villa confortable située à Djerba, idéale pour les familles à la recherche d’un séjour agréable, calme et paisible. La villa dispose de beaux espaces de vie et d’un extérieur agréable avec piscine privée. Située dans un environnement tranquille, Villa Zina à Djerba offre tout le confort nécessaire pour profiter pleinement de votre séjour en famille ou entre amis. Villa Zina est également disponible à la location pour un long séjour, hors mois d’août.",
+   "sections": [
+    {
+     "titre": null,
+     "texte": [
+      "Découvrez Villa Zina, une villa confortable située à Djerba, idéale pour les familles à la recherche d’un séjour agréable, calme et paisible. La villa dispose de beaux espaces de vie et d’un extérieur agréable avec piscine privée.",
+      "Située dans un environnement tranquille, Villa Zina à Djerba offre tout le confort nécessaire pour profiter pleinement de votre séjour en famille ou entre amis."
+     ],
+     "liste": []
+    },
+    {
+     "titre": "Composition intérieure",
+     "texte": [],
+     "liste": [
+      "4 chambres confortables",
+      "4 chambres à coucher",
+      "Salon confortable et lumineux",
+      "Espaces adaptés aux familles"
+     ]
+    },
+    {
+     "titre": "Espaces de vie",
+     "texte": [],
+     "liste": [
+      "Salon spacieux",
+      "Climatisation",
+      "Espaces de vie confortables"
+     ]
+    },
+    {
+     "titre": "À l’extérieur",
+     "texte": [],
+     "liste": [
+      "Piscine privée",
+      "Espace extérieur agréable",
+      "Entrée privée pour voiture",
+      "Parking privé",
+      "Environnement calme et paisible"
+     ]
+    },
+    {
+     "titre": "Emplacement",
+     "texte": [],
+     "liste": [
+      "Djerba",
+      "Quartier calme et agréable",
+      "Environnement paisible",
+      "Idéal pour un séjour en famille"
+     ]
+    },
+    {
+     "titre": "Capacité & séjour",
+     "texte": [],
+     "liste": [
+      "Capacité : jusqu’à 8 personnes",
+      "4 chambres",
+      "Idéale pour familles et groupes"
+     ]
+    },
+    {
+     "titre": "Location longue durée",
+     "texte": [
+      "Villa Zina est également disponible à la location pour un long séjour, hors mois d’août."
+     ],
+     "liste": []
+    }
+   ],
+   "points_cles": [
+    "8 voyageurs",
+    "4 chambres",
+    "Salon",
+    "Piscine privée",
+    "Entrée voiture",
+    "Environnement calme",
+    "Sans vis-à-vis"
+   ],
+   "agence": "Immo Soleil Djerba",
+   "telephones": [],
+   "rubriques": [
+    "louer"
+   ],
+   "photos": [
+    "https://immosoleildjerba.com/wp-content/uploads/2026/10/zina1-1.jpg",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/10/zina15-1024x768.jpg",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/10/zina14-1024x768.jpg",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/10/zina7-1-1024x768.jpg",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/10/zina10-1024x768.jpg",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/10/zina5-1024x768.jpg",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/10/zina9-1024x768.jpg"
+   ],
+   "nb_photos": 7,
+   "videos": [],
+   "url": "https://immosoleildjerba.com/produit/villa-zina/",
+   "autres_champs": {
+    "Quartier": "Djerba",
+    "Période": "Location à l'année",
+    "Ameublement": "Meublé"
+   },
+   "statut_annonce": null
+  },
+  {
+   "id": "3857",
+   "reference": "ISD3857",
+   "titre": "Villa El Kout",
+   "transaction": "Location",
+   "disponibilite": "disponible",
+   "type_bien": "Maison / Villa",
+   "prix": 1500,
+   "prix_unite": null,
+   "devise": "TND",
+   "prix_texte": "د.ت 1.500",
+   "surface_habitable_m2": null,
+   "surface_terrain_m2": null,
+   "surface_m2": null,
+   "chambres": 3,
+   "suites": null,
+   "sdb": null,
+   "pays": "Tunisie",
+   "gouvernorat": "Djerba",
+   "delegation": "Khazroun",
+   "localite": "Khazroun",
+   "adresse_complete": "Khazroun, Djerba, Tunisie",
+   "description": "Découvrez cette agréable villa à louer à l’année à Djerba Khazroun, située dans un quartier calme et agréable. La villa offre un cadre de vie confortable et paisible, idéal pour une famille souhaitant s’installer à Djerba à l’année. La propriété dispose d’une piscine privée, d’un jardin et d’une entrée permettant de stationner une voiture. App.",
+   "sections": [
+    {
+     "titre": null,
+     "texte": [
+      "Découvrez cette agréable villa à louer à l’année à Djerba Khazroun, située dans un quartier calme et agréable. La villa offre un cadre de vie confortable et paisible, idéal pour une famille souhaitant s’installer à Djerba à l’année.",
+      "La propriété dispose d’une piscine privée, d’un jardin et d’une entrée permettant de stationner une voiture."
+     ],
+     "liste": [
+      "Villa à louer à l’année à Djerba Khazroun – Piscine privée et jardin"
+     ]
+    },
+    {
+     "titre": "Composition intérieure",
+     "texte": [],
+     "liste": [
+      "3 chambres à coucher",
+      "3 chambres confortables",
+      "Salon spacieux",
+      "Espace de vie agréable"
+     ]
+    },
+    {
+     "titre": "Espaces de vie",
+     "texte": [],
+     "liste": [
+      "Salon",
+      "Cuisine",
+      "Espaces adaptés à une vie familiale"
+     ]
+    },
+    {
+     "titre": "À l’extérieur",
+     "texte": [],
+     "liste": [
+      "Piscine privée",
+      "Jardin",
+      "Entrée privée pour voiture",
+      "Espace extérieur agréable",
+      "Quartier calme"
+     ]
+    },
+    {
+     "titre": "Emplacement",
+     "texte": [],
+     "liste": [
+      "Djerba – Khazroun",
+      "Quartier calme et résidentiel",
+      "Environnement paisible",
+      "Idéal pour une installation à l’année",
+      "Location annuelle",
+      "Idéale pour une famille",
+      "Location à l’année"
+     ]
+    },
+    {
+     "titre": "Caractéristiques",
+     "texte": [
+      "App."
+     ],
+     "liste": [
+      "3 chambres",
+      "Parking / entrée voiture",
+      "Contact & visite"
+     ]
+    }
+   ],
+   "points_cles": [
+    "Location annuelle",
+    "3 chambres",
+    "Salon",
+    "Piscine privée",
+    "Jardin",
+    "Parking privé",
+    "Quartier calme",
+    "Entrée voiture"
+   ],
+   "agence": "Immo Soleil Djerba",
+   "telephones": [],
+   "rubriques": [
+    "louer"
+   ],
+   "photos": [
+    "https://immosoleildjerba.com/wp-content/uploads/2026/09/el-kout1-4.jpg",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/09/el-kout2-768x1024.jpg",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/09/el-kout14-768x1024.jpg",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/09/el-kout5-768x1024.jpg",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/09/el-kout6-768x1024.jpg",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/09/el-kout8-768x1024.jpg",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/09/el-kout11-768x1024.jpg"
+   ],
+   "nb_photos": 7,
+   "videos": [],
+   "url": "https://immosoleildjerba.com/produit/villa-el-kout/",
+   "autres_champs": {
+    "Quartier": "Khazroun",
+    "Période": "Location à l'année",
+    "Ameublement": "Meublé"
+   },
+   "statut_annonce": null
+  },
+  {
+   "id": "3780",
+   "reference": "ISD3780",
+   "titre": "Villa non finie à vendre à Beni Maaguel – Terrain 700 m² avec vue mer",
+   "transaction": "Vente",
+   "disponibilite": "disponible",
+   "type_bien": "Maison / Villa",
+   "prix": 170000,
+   "prix_unite": null,
+   "devise": "TND",
+   "prix_texte": "د.ت 170.000",
+   "surface_habitable_m2": 80,
+   "surface_terrain_m2": 700,
+   "surface_m2": 80,
+   "chambres": 1,
+   "suites": null,
+   "sdb": null,
+   "pays": "Tunisie",
+   "gouvernorat": "Djerba",
+   "delegation": "Beni Maaguel",
+   "localite": "Beni Maaguel",
+   "adresse_complete": "Beni Maaguel, Djerba, Tunisie",
+   "description": "Découvrez cette villa non finie située à Beni Maaguel, dans un environnement calme et résidentiel. Édifiée sur un vaste terrain de 700 m², cette propriété représente une excellente opportunité pour concrétiser votre projet de résidence principale, de maison de vacances ou d’investissement immobilier à Djerba. Son principal atout est sa vue dégagée sur la mer depuis le toit, offrant un cadre agréable et un fort potentiel d’aménagement.",
+   "sections": [
+    {
+     "titre": null,
+     "texte": [
+      "Découvrez cette villa non finie située à Beni Maaguel, dans un environnement calme et résidentiel. Édifiée sur un vaste terrain de 700 m², cette propriété représente une excellente opportunité pour concrétiser votre projet de résidence principale, de maison de vacances ou d’investissement immobilier à Djerba.",
+      "Son principal atout est sa vue dégagée sur la mer depuis le toit, offrant un cadre agréable et un fort potentiel d’aménagement."
+     ],
+     "liste": []
+    },
+    {
+     "titre": "Composition",
+     "texte": [],
+     "liste": [
+      "Salon",
+      "1 chambre",
+      "Surface couverte : 80 m²"
+     ]
+    },
+    {
+     "titre": "Extérieur",
+     "texte": [],
+     "liste": [
+      "Terrain de 700 m²",
+      "Grand jardin à aménager",
+      "Vue mer depuis la terrasse/toit",
+      "Quartier calme et résidentiel"
+     ]
+    },
+    {
+     "titre": "Emplacement",
+     "texte": [],
+     "liste": [
+      "Beni Maaguel – Djerba",
+      "Environnement calme",
+      "Proche des commodités",
+      "Vue mer"
+     ]
+    },
+    {
+     "titre": "Points forts",
+     "texte": [],
+     "liste": [
+      "Quartier résidentiel",
+      "Excellent potentiel d’aménagement",
+      "Idéal pour résidence principale ou investissement"
+     ]
+    }
+   ],
+   "points_cles": [
+    "80 m² habitables",
+    "Terrain 700 m²",
+    "Salon",
+    "1 chambre",
+    "Vue mer",
+    "Quartier calme"
+   ],
+   "agence": "Immo Soleil Djerba",
+   "telephones": [],
+   "rubriques": [
+    "acheter"
+   ],
+   "photos": [
+    "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-non-finie5.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-non-finie1.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-non-finie2.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-non-finie3.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-non-finie4.webp"
+   ],
+   "nb_photos": 5,
+   "videos": [
+    "https://immosoleildjerba.com/wp-content/uploads/2026/07/Villa-non-finie.mp4"
+   ],
+   "url": "https://immosoleildjerba.com/produit/villa-non-finie-a-vendre-a-beni-maaguel-terrain-700-m%c2%b2-avec-vue-mer/",
+   "autres_champs": {
+    "Quartier": "Beni Maaguel"
+   },
+   "statut_annonce": null
+  },
+  {
+   "id": "3647",
+   "reference": "ISD3647",
+   "titre": "Deux villas neuves à vendre à Houmt Souk – Djerba | Terrain 400 m²",
+   "transaction": "Vente",
+   "disponibilite": "disponible",
+   "type_bien": "Maison / Villa",
+   "prix": 340000,
+   "prix_unite": null,
+   "devise": "TND",
+   "prix_texte": "د.ت 340.000 – د.ت 350.000Plage de prix : د.ت 340.000 à د.ت 350.000",
+   "surface_habitable_m2": 135,
+   "surface_terrain_m2": 400,
+   "surface_m2": 135,
+   "chambres": 3,
+   "suites": 1,
+   "sdb": null,
+   "pays": "Tunisie",
+   "gouvernorat": "Djerba",
+   "delegation": "Houmt Souk",
+   "localite": "Houmt Souk",
+   "adresse_complete": "Houmt Souk, Djerba, Tunisie",
+   "description": "Découvrez une belle opportunité immobilière située à Houmt Souk, dans un quartier calme et proche de toutes les commodités. Ces deux villas neuves, fraîchement achevées, offrent un cadre de vie moderne, confortable et idéal pour une résidence principale ou un investissement locatif à Djerba. Situées à Houmt Souk, les villas bénéficient d’un environnement paisible tout en restant proches des commerces, écoles, services et axes principaux de l’île.",
+   "sections": [
+    {
+     "titre": null,
+     "texte": [
+      "Découvrez une belle opportunité immobilière située à Houmt Souk, dans un quartier calme et proche de toutes les commodités. Ces deux villas neuves, fraîchement achevées, offrent un cadre de vie moderne, confortable et idéal pour une résidence principale ou un investissement locatif à Djerba."
+     ],
+     "liste": []
+    },
+    {
+     "titre": "Un emplacement stratégique",
+     "texte": [
+      "Situées à Houmt Souk, les villas bénéficient d’un environnement paisible tout en restant proches des commerces, écoles, services et axes principaux de l’île."
+     ],
+     "liste": []
+    },
+    {
+     "titre": "Chaque villa propose",
+     "texte": [],
+     "liste": [
+      "Terrain de 400 m²",
+      "Surface bâtie de 135 m²",
+      "Suite parentale",
+      "2 chambres supplémentaires",
+      "Espaces lumineux et bien agencés",
+      "Construction moderne et fonctionnelle"
+     ]
+    },
+    {
+     "titre": "Les villas disposent de",
+     "texte": [],
+     "liste": [
+      "Garage privé",
+      "Terrain piscinable",
+      "Espaces extérieurs exploitables",
+      "Possibilité d’aménagement jardin ou piscine",
+      "Un investissement idéal"
+     ]
+    },
+    {
+     "titre": "Ces villas sont parfaites pour",
+     "texte": [],
+     "liste": [
+      "Résidence principale familiale",
+      "Maison de vacances à Djerba",
+      "Investissement immobilier rentable",
+      "Prix",
+      "Villa 1 : 340 000 DT",
+      "Villa 2 : 350 000 DT"
+     ]
+    }
+   ],
+   "points_cles": [],
+   "agence": "Immo Soleil Djerba",
+   "telephones": [],
+   "rubriques": [
+    "acheter"
+   ],
+   "photos": [
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vt_2_Villas.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vt_2_Villas1.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vt_2_Villas3.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vt_2_Villas4.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vt_2_Villas5.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vt_2_Villas6.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vt_2_Villas7.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vt_2_Villas8.webp"
+   ],
+   "nb_photos": 8,
+   "videos": [
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vt_2_Villas.mp4"
+   ],
+   "url": "https://immosoleildjerba.com/produit/deux-villas-neuves-a-vendre-a-houmt-souk-djerba-terrain-400-m%c2%b2/",
+   "autres_champs": {
+    "Quartier": "Houmt Souk",
+    "Prix": "340 000 à 350 000 DT"
+   },
+   "statut_annonce": null
+  },
+  {
+   "id": "3550",
+   "reference": "ISD3550",
+   "titre": "Fond de commerce à vendre – Houmt Souk (route aéroport)",
+   "transaction": "Vente",
+   "disponibilite": "disponible",
+   "type_bien": "Bureau et local... | Fonds de commerce",
+   "prix": 55000,
+   "prix_unite": null,
+   "devise": "TND",
+   "prix_texte": "د.ت 55.000",
+   "surface_habitable_m2": 30,
+   "surface_terrain_m2": null,
+   "surface_m2": 30,
+   "chambres": null,
+   "suites": null,
+   "sdb": null,
+   "pays": "Tunisie",
+   "gouvernorat": "Djerba",
+   "delegation": "Houmt Souk",
+   "localite": "Houmt Souk",
+   "adresse_complete": "Houmt Souk, Djerba, Tunisie",
+   "description": "Nous vous proposons une excellente opportunité d’investissement avec ce fond de commerce en activité situé sur la route de l’aéroport à Houmt Souk, Djerba, bénéficiant d’un emplacement stratégique à fort passage. Le local est actuellement exploité comme boutique, mais il est parfaitement adaptable à toute autre activité commerciale selon vos besoins. Ce local représente une opportunité idéale pour un investissement rentable ou pour lancer votre propre activité commerciale.",
+   "sections": [
+    {
+     "titre": null,
+     "texte": [
+      "Nous vous proposons une excellente opportunité d’investissement avec ce fond de commerce en activité situé sur la route de l’aéroport à Houmt Souk, Djerba, bénéficiant d’un emplacement stratégique à fort passage.",
+      "Le local est actuellement exploité comme boutique, mais il est parfaitement adaptable à toute autre activité commerciale selon vos besoins."
+     ],
+     "liste": []
+    },
+    {
+     "titre": "Caractéristiques",
+     "texte": [
+      "Ce local représente une opportunité idéale pour un investissement rentable ou pour lancer votre propre activité commerciale."
+     ],
+     "liste": [
+      "Surface : 30 m²",
+      "2 salles d’exposition",
+      "Caméra de surveillance",
+      "Local bien équipé et sécurisé",
+      "Très bon emplacement stratégique"
+     ]
+    }
+   ],
+   "points_cles": [],
+   "agence": "Immo Soleil Djerba",
+   "telephones": [],
+   "rubriques": [
+    "acheter",
+    "bureaux-et-commerces"
+   ],
+   "photos": [
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/Fond.webp"
+   ],
+   "nb_photos": 1,
+   "videos": [
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/Fond-de-Commerce.mp4"
+   ],
+   "url": "https://immosoleildjerba.com/produit/fond-de-commerce-a-vendre-houmt-souk-route-aeroport/",
+   "autres_champs": {
+    "Quartier": "Houmt Souk"
+   },
+   "statut_annonce": null
+  },
+  {
+   "id": "3529",
+   "reference": "ISD3529",
+   "titre": "Villa de prestige à la Lagune Djerba",
+   "transaction": "Vente",
+   "disponibilite": "disponible",
+   "type_bien": "Maison / Villa",
+   "prix": 850000,
+   "prix_unite": null,
+   "devise": "TND",
+   "prix_texte": "د.ت 850.000",
+   "surface_habitable_m2": null,
+   "surface_terrain_m2": null,
+   "surface_m2": null,
+   "chambres": null,
+   "suites": null,
+   "sdb": null,
+   "pays": "Tunisie",
+   "gouvernorat": "Djerba",
+   "delegation": "La Lagune",
+   "localite": "La Lagune",
+   "adresse_complete": "La Lagune, Djerba, Tunisie",
+   "description": "Nichée dans un environnement exclusif au cœur de la Lagune à Djerba, cette villa de prestige offre une expérience de vie unique où luxe, confort et sérénité se rencontrent harmonieusement. Pensée pour répondre aux exigences du haut standing, cette propriété séduit par son architecture élégante, sa luminosité naturelle et son atmosphère apaisante. Chaque espace a été soigneusement conçu pour offrir un confort de vie exceptionnel, idéal aussi bien pour une résidence principale que pour un investissement immobilier de prestige. Cette villa représente une opportunité rare d’acquérir un bien d’exception dans l’un des secteurs les plus recherchés de Djerba.",
+   "sections": [
+    {
+     "titre": null,
+     "texte": [
+      "Nichée dans un environnement exclusif au cœur de la Lagune à Djerba, cette villa de prestige offre une expérience de vie unique où luxe, confort et sérénité se rencontrent harmonieusement.",
+      "Pensée pour répondre aux exigences du haut standing, cette propriété séduit par son architecture élégante, sa luminosité naturelle et son atmosphère apaisante.",
+      "Chaque espace a été soigneusement conçu pour offrir un confort de vie exceptionnel, idéal aussi bien pour une résidence principale que pour un investissement immobilier de prestige."
+     ],
+     "liste": [
+      "Villa de prestige à la Lagune – Djerba"
+     ]
+    },
+    {
+     "titre": "Points forts",
+     "texte": [
+      "Cette villa représente une opportunité rare d’acquérir un bien d’exception dans l’un des secteurs les plus recherchés de Djerba."
+     ],
+     "liste": [
+      "Emplacement premium à la Lagune",
+      "Cadre calme et exclusif",
+      "Prestations haut standing",
+      "Excellente opportunité d’investissement",
+      "Titre bleu disponible"
+     ]
+    }
+   ],
+   "points_cles": [],
+   "agence": "Immo Soleil Djerba",
+   "telephones": [],
+   "rubriques": [
+    "acheter"
+   ],
+   "photos": [
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_villa_Lagune-.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_villa_Lagune1.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_villa_Lagune2.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_villa_Lagune3.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_villa_Lagune4.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_villa_Lagune5.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_villa_Lagune6.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_villa_Lagune7.webp"
+   ],
+   "nb_photos": 8,
+   "videos": [
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_villa_Lagune.mp4"
+   ],
+   "url": "https://immosoleildjerba.com/produit/villa-de-prestige-a-la-lagune-djerba/",
+   "autres_champs": {
+    "Quartier": "La Lagune",
+    "Titre": "Titre bleu"
+   },
+   "statut_annonce": null
+  },
+  {
+   "id": "3507",
+   "reference": "ISD3507",
+   "titre": "Villa haut standing à vendre à Midoun",
+   "transaction": "Vente",
+   "disponibilite": "disponible",
+   "type_bien": "Maison / Villa",
+   "prix": 850000,
+   "prix_unite": null,
+   "devise": "TND",
+   "prix_texte": "د.ت 850.000",
+   "surface_habitable_m2": 241,
+   "surface_terrain_m2": 406,
+   "surface_m2": 241,
+   "chambres": 3,
+   "suites": 3,
+   "sdb": null,
+   "pays": "Tunisie",
+   "gouvernorat": "Djerba",
+   "delegation": "Midoun",
+   "localite": "Midoun",
+   "adresse_complete": "Midoun, Djerba, Tunisie",
+   "description": "Notre agence vous propose une superbe villa en cours de construction située dans un quartier résidentiel calme et recherché à Midoun, en zone urbaine, à proximité immédiate des commodités essentielles. Pensée pour offrir un confort de vie exceptionnel, cette villa sera livrée entièrement finie avec des prestations haut de gamme, des matériaux de première qualité et des finitions modernes soigneusement sélectionnées. Cette villa représente un choix idéal aussi bien pour une résidence principale que pour un investissement immobilier rentable à Djerba.",
+   "sections": [
+    {
+     "titre": null,
+     "texte": [
+      "Notre agence vous propose une superbe villa en cours de construction située dans un quartier résidentiel calme et recherché à Midoun, en zone urbaine, à proximité immédiate des commodités essentielles.",
+      "Pensée pour offrir un confort de vie exceptionnel, cette villa sera livrée entièrement finie avec des prestations haut de gamme, des matériaux de première qualité et des finitions modernes soigneusement sélectionnées."
+     ],
+     "liste": [
+      "Villa haut standing avec piscine à Midoun"
+     ]
+    },
+    {
+     "titre": "Composition intérieure",
+     "texte": [],
+     "liste": [
+      "Salon spacieux et lumineux",
+      "Cuisine indépendante moderne",
+      "3 suites parentales avec salles d’eau privatives"
+     ]
+    },
+    {
+     "titre": "À l’extérieur",
+     "texte": [],
+     "liste": [
+      "Piscine privée",
+      "Toilette extérieure",
+      "Abri voiture",
+      "Espaces extérieurs aménageables"
+     ]
+    },
+    {
+     "titre": "Points forts",
+     "texte": [
+      "Cette villa représente un choix idéal aussi bien pour une résidence principale que pour un investissement immobilier rentable à Djerba."
+     ],
+     "liste": [
+      "Villa neuve haut standing",
+      "Matériaux premium et finitions modernes",
+      "Titre bleu disponible",
+      "Zone urbaine recherchée à Midoun",
+      "Excellente opportunité d’investissement"
+     ]
+    },
+    {
+     "titre": "Caractéristiques",
+     "texte": [],
+     "liste": [
+      "Terrain : 406 m²",
+      "Surface couverte : 241 m²"
+     ]
+    }
+   ],
+   "points_cles": [],
+   "agence": "Immo Soleil Djerba",
+   "telephones": [],
+   "rubriques": [
+    "acheter"
+   ],
+   "photos": [
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_Villa-haut-standing2.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_Villa-haut-standing.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_Villa-haut-standing1.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_Villa-haut-standing3.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VT_Villa-haut-standing4.webp"
+   ],
+   "nb_photos": 5,
+   "videos": [],
+   "url": "https://immosoleildjerba.com/produit/villa-haut-standing-a-vendre-a-midoun/",
+   "autres_champs": {
+    "Quartier": "Midoun",
+    "Titre": "Titre bleu"
+   },
+   "statut_annonce": null
+  },
+  {
+   "id": "3340",
+   "reference": "ISD3340",
+   "titre": "Domaine de luxe avec piscine à vendre à Djerba",
+   "transaction": "Vente",
+   "disponibilite": "disponible",
+   "type_bien": "Maison / Villa",
+   "prix": 2288000,
+   "prix_unite": null,
+   "devise": "TND",
+   "prix_texte": "د.ت 2.288.000",
+   "surface_habitable_m2": 700,
+   "surface_terrain_m2": 9200,
+   "surface_m2": 700,
+   "chambres": 3,
+   "suites": 1,
+   "sdb": null,
+   "pays": "Tunisie",
+   "gouvernorat": "Djerba",
+   "delegation": "Djerba",
+   "localite": "Djerba",
+   "adresse_complete": "Djerba, Tunisie",
+   "description": "Découvrez ce domaine d’exception à Djerba, une propriété rare et prestigieuse offrant 700 m² bâtis sur un terrain de 9200 m² en zone agricole, idéalement située dans un environnement calme entre ville et mer. Ce bien unique se compose d’une somptueuse maison de maître meublée avec élégance, de deux appartements indépendants, d’un studio ainsi que de vastes espaces extérieurs parfaitement aménagés. De grandes baies vitrées offrent une vue imprenable sur une piscine aux dimensions exceptionnelles avec plage aménagée. Cette propriété représente une opportunité idéale pour un projet de maison d’hôtes haut standing, un investissement de prestige ou une résidence privée exceptionnelle.",
+   "sections": [
+    {
+     "titre": null,
+     "texte": [
+      "Découvrez ce domaine d’exception à Djerba, une propriété rare et prestigieuse offrant 700 m² bâtis sur un terrain de 9200 m² en zone agricole, idéalement située dans un environnement calme entre ville et mer.",
+      "Ce bien unique se compose d’une somptueuse maison de maître meublée avec élégance, de deux appartements indépendants, d’un studio ainsi que de vastes espaces extérieurs parfaitement aménagés."
+     ],
+     "liste": []
+    },
+    {
+     "titre": "La villa principale comprend",
+     "texte": [
+      "De grandes baies vitrées offrent une vue imprenable sur une piscine aux dimensions exceptionnelles avec plage aménagée."
+     ],
+     "liste": [
+      "Une entrée majestueuse",
+      "Deux grands salons",
+      "Une cheminée",
+      "Deux patios",
+      "Une salle à manger",
+      "Deux cuisines dont une grande avec îlot central",
+      "Une suite parentale",
+      "Deux chambres",
+      "Espaces dédiés au personnel"
+     ]
+    },
+    {
+     "titre": "À l’étage",
+     "texte": [],
+     "liste": [
+      "Une suite de prestige",
+      "Une salle de bain avec baignoire sous arcade",
+      "Une douche avec sauna",
+      "Une terrasse de 120 m² avec vue panoramique sur la piscine, le jardin et les annexes"
+     ]
+    },
+    {
+     "titre": "Les annexes",
+     "texte": [
+      "Cette propriété représente une opportunité idéale pour un projet de maison d’hôtes haut standing, un investissement de prestige ou une résidence privée exceptionnelle."
+     ],
+     "liste": [
+      "Deux appartements indépendants",
+      "Un studio avec salon, espace nuit et terrasse face à la piscine",
+      "Deux garages",
+      "Une allée majestueuse digne d’un hôtel"
+     ]
+    }
+   ],
+   "points_cles": [],
+   "agence": "Immo Soleil Djerba",
+   "telephones": [],
+   "rubriques": [
+    "acheter"
+   ],
+   "photos": [
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes1-1.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes2-1.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes4-1.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes6-1.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes7-1.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes8-1.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes9-1.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes10.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes11.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes12.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes13.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes14.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes15.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes16.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes17.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/maison-dhotes18.webp"
+   ],
+   "nb_photos": 16,
+   "videos": [],
+   "url": "https://immosoleildjerba.com/produit/domaine-de-luxe-avec-piscine-a-vendre-a-djerba/",
+   "autres_champs": {
+    "Quartier": "Djerba",
+    "Ameublement": "Meublé"
+   },
+   "statut_annonce": null
+  },
+  {
+   "id": "3329",
+   "reference": "ISD3329",
+   "titre": "Pizzeria à vendre au centre de Midoun",
+   "transaction": "Vente",
+   "disponibilite": "disponible",
+   "type_bien": "Bureau et local... | Fonds de commerce",
+   "prix": 140000,
+   "prix_unite": null,
+   "devise": "TND",
+   "prix_texte": "د.ت 140.000",
+   "surface_habitable_m2": null,
+   "surface_terrain_m2": null,
+   "surface_m2": null,
+   "chambres": null,
+   "suites": null,
+   "sdb": null,
+   "pays": "Tunisie",
+   "gouvernorat": "Djerba",
+   "delegation": "Midoun",
+   "localite": "Midoun",
+   "adresse_complete": "Midoun, Djerba, Tunisie",
+   "description": "Découvrez cette excellente opportunité d’investissement avec ce fond de commerce de pizzeria à vendre au centre de Midoun, dans l’une des zones les plus dynamiques et fréquentées de Djerba. Grâce à son emplacement stratégique au cœur de Midoun, ce commerce bénéficie d’une forte visibilité et d’un flux important de clients potentiels, offrant un excellent potentiel de rentabilité.",
+   "sections": [
+    {
+     "titre": null,
+     "texte": [
+      "Découvrez cette excellente opportunité d’investissement avec ce fond de commerce de pizzeria à vendre au centre de Midoun, dans l’une des zones les plus dynamiques et fréquentées de Djerba.",
+      "Grâce à son emplacement stratégique au cœur de Midoun, ce commerce bénéficie d’une forte visibilité et d’un flux important de clients potentiels, offrant un excellent potentiel de rentabilité."
+     ],
+     "liste": []
+    },
+    {
+     "titre": "Le local comprend",
+     "texte": [],
+     "liste": [
+      "Une cuisine entièrement équipée avec matériel prêt à l’usage",
+      "Une salle accueillante pour recevoir la clientèle",
+      "Un espace fonctionnel adapté à une activité de restauration",
+      "Un emplacement commercial premium"
+     ]
+    },
+    {
+     "titre": "Les points forts",
+     "texte": [],
+     "liste": [
+      "Commerce clé en main",
+      "Emplacement central très recherché",
+      "Fort potentiel commercial",
+      "Investissement rentable à Djerba"
+     ]
+    }
+   ],
+   "points_cles": [],
+   "agence": "Immo Soleil Djerba",
+   "telephones": [],
+   "rubriques": [
+    "acheter",
+    "bureaux-et-commerces"
+   ],
+   "photos": [
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/pizzeria-Vente.webp"
+   ],
+   "nb_photos": 1,
+   "videos": [
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/pizzeria_Vente.mp4"
+   ],
+   "url": "https://immosoleildjerba.com/produit/pizzeria-a-vendre-au-centre-de-midoun/",
+   "autres_champs": {
+    "Quartier": "Midoun"
+   },
+   "statut_annonce": null
+  },
+  {
+   "id": "3319",
+   "reference": "ISD3319",
+   "titre": "Maison Yoza en location annuelle à Djerba",
+   "transaction": "Location",
+   "disponibilite": "disponible",
+   "type_bien": "Maison / Villa",
+   "prix": 1800,
+   "prix_unite": null,
+   "devise": "TND",
+   "prix_texte": "د.ت 1.800",
+   "surface_habitable_m2": null,
+   "surface_terrain_m2": null,
+   "surface_m2": null,
+   "chambres": 1,
+   "suites": null,
+   "sdb": null,
+   "pays": "Tunisie",
+   "gouvernorat": "Djerba",
+   "delegation": "Djerba",
+   "localite": "Djerba",
+   "adresse_complete": "Djerba, Tunisie",
+   "description": "Découvrez Maison Yoza, une élégante maison S+1 meublée en location annuelle à Djerba, située dans un environnement calme et agréable. Moderne, lumineuse et soigneusement aménagée, cette maison offre un cadre de vie confortable, idéal pour une personne seule, un couple ou une petite famille recherchant sérénité et praticité au quotidien.",
+   "sections": [
+    {
+     "titre": null,
+     "texte": [
+      "Découvrez Maison Yoza, une élégante maison S+1 meublée en location annuelle à Djerba, située dans un environnement calme et agréable.",
+      "Moderne, lumineuse et soigneusement aménagée, cette maison offre un cadre de vie confortable, idéal pour une personne seule, un couple ou une petite famille recherchant sérénité et praticité au quotidien."
+     ],
+     "liste": []
+    },
+    {
+     "titre": "Composition intérieure",
+     "texte": [],
+     "liste": [
+      "1 chambre spacieuse et lumineuse",
+      "Salon cosy et bien aménagé",
+      "Cuisine fonctionnelle entièrement équipée",
+      "Salle d’eau moderne",
+      "Espaces bien optimisés",
+      "Maison entièrement meublée"
+     ]
+    },
+    {
+     "titre": "Les points forts",
+     "texte": [],
+     "liste": [
+      "Maison moderne et élégante",
+      "Cadre calme et paisible",
+      "Idéale pour couple ou petite famille",
+      "Espaces confortables et fonctionnels",
+      "Location annuelle prête à habiter"
+     ]
+    },
+    {
+     "titre": "Emplacement",
+     "texte": [],
+     "liste": [
+      "Située à Djerba",
+      "Quartier calme et agréable",
+      "Proche des commodités essentielles",
+      "Accès facile aux commerces et services",
+      "Villa.mp4"
+     ]
+    }
+   ],
+   "points_cles": [],
+   "agence": "Immo Soleil Djerba",
+   "telephones": [],
+   "rubriques": [
+    "louer"
+   ],
+   "photos": [
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza4.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza13.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza8.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza6.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza1.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza2.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza9.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza10.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza11.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza3.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/Yoza5.webp"
+   ],
+   "nb_photos": 12,
+   "videos": [
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/yozaVilla.mp4"
+   ],
+   "url": "https://immosoleildjerba.com/produit/maison-yoza-en-location-annuelle-a-djerba/",
+   "autres_champs": {
+    "Quartier": "Djerba",
+    "Période": "Location à l'année",
+    "Ameublement": "Meublé"
+   },
+   "statut_annonce": null
+  },
+  {
+   "id": "3281",
+   "reference": "ISD3281",
+   "titre": "Villa à vendre à Midoun Djerba sur route zone touristique",
+   "transaction": "Vente",
+   "disponibilite": "disponible",
+   "type_bien": "Maison / Villa",
+   "prix": 450000,
+   "prix_unite": null,
+   "devise": "TND",
+   "prix_texte": "د.ت 450.000",
+   "surface_habitable_m2": 180,
+   "surface_terrain_m2": 400,
+   "surface_m2": 180,
+   "chambres": null,
+   "suites": null,
+   "sdb": null,
+   "pays": "Tunisie",
+   "gouvernorat": "Djerba",
+   "delegation": "Midoun",
+   "localite": "Midoun",
+   "adresse_complete": "Midoun, Djerba, Tunisie",
+   "description": "Découvrez cette charmante villa située à Midoun Djerba, sur la route de la zone touristique, dans un secteur très recherché offrant un accès rapide aux commodités, aux plages et aux zones d’animation. Édifiée sur un terrain de 400 m² avec une surface habitable de 180 m², cette propriété propose un cadre de vie agréable, idéal pour une résidence principale, une maison de vacances ou un investissement locatif rentable. Grâce à son emplacement stratégique, cette villa bénéficie d’un fort potentiel de valorisation dans l’une des zones les plus attractives de Djerba.",
+   "sections": [
+    {
+     "titre": null,
+     "texte": [
+      "Découvrez cette charmante villa située à Midoun Djerba, sur la route de la zone touristique, dans un secteur très recherché offrant un accès rapide aux commodités, aux plages et aux zones d’animation.",
+      "Édifiée sur un terrain de 400 m² avec une surface habitable de 180 m², cette propriété propose un cadre de vie agréable, idéal pour une résidence principale, une maison de vacances ou un investissement locatif rentable.",
+      "Grâce à son emplacement stratégique, cette villa bénéficie d’un fort potentiel de valorisation dans l’une des zones les plus attractives de Djerba."
+     ],
+     "liste": [
+      "Frais d’agence : 2 %"
+     ]
+    }
+   ],
+   "points_cles": [],
+   "agence": "Immo Soleil Djerba",
+   "telephones": [],
+   "rubriques": [
+    "acheter"
+   ],
+   "photos": [
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VentVilla_Midoun9.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VentVilla_Midoun8.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VentVilla_Midoun.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VentVilla_Midoun3.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VentVilla_Midoun4.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VentVilla_Midoun5.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VentVilla_Midoun6.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VentVilla_Midoun7.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VentVilla_Midoun10.webp"
+   ],
+   "nb_photos": 9,
+   "videos": [],
+   "url": "https://immosoleildjerba.com/produit/villa-a-vendre-a-midoun-djerba-sur-route-zone-touristique/",
+   "autres_champs": {
+    "Quartier": "Midoun",
+    "Frais d'agence": "2 %"
+   },
+   "statut_annonce": null
+  },
+  {
+   "id": "3248",
+   "reference": "ISD3248",
+   "titre": "Villa moderne à vendre à Houmt Souk Djerba avec garage et jardin",
+   "transaction": "Vente",
+   "disponibilite": "disponible",
+   "type_bien": "Maison / Villa",
+   "prix": 400000,
+   "prix_unite": null,
+   "devise": "TND",
+   "prix_texte": "د.ت 400.000",
+   "surface_habitable_m2": 140,
+   "surface_terrain_m2": 390,
+   "surface_m2": 140,
+   "chambres": 3,
+   "suites": 1,
+   "sdb": null,
+   "pays": "Tunisie",
+   "gouvernorat": "Djerba",
+   "delegation": "Houmt Souk",
+   "localite": "Houmt Souk",
+   "adresse_complete": "Houmt Souk, Djerba, Tunisie",
+   "description": "Découvrez cette belle villa située en zone urbaine à Houmt Souk, dans un environnement calme et agréable. Édifiée sur un terrain de 390 m², avec une surface habitable de 140 m² ainsi qu’un garage de 24 m², cette propriété bénéficie d’un emplacement privilégié donnant sur deux voies. L’intérieur de la villa a été soigneusement conçu pour allier confort, modernité et fonctionnalité. L’espace nuit, séparé pour plus d’intimité, est accessible via un élégant hall décoré avec un éclairage LED doux et moderne. Cette villa séduit par sa luminosité naturelle, son atmosphère chaleureuse et son excellent standing. Une opportunité rare à saisir pour un investissement ou une résidence principale à Djerba.",
+   "sections": [
+    {
+     "titre": null,
+     "texte": [
+      "Découvrez cette belle villa située en zone urbaine à Houmt Souk, dans un environnement calme et agréable. Édifiée sur un terrain de 390 m², avec une surface habitable de 140 m² ainsi qu’un garage de 24 m², cette propriété bénéficie d’un emplacement privilégié donnant sur deux voies.",
+      "L’intérieur de la villa a été soigneusement conçu pour allier confort, modernité et fonctionnalité."
+     ],
+     "liste": []
+    },
+    {
+     "titre": "La partie jour comprend",
+     "texte": [
+      "L’espace nuit, séparé pour plus d’intimité, est accessible via un élégant hall décoré avec un éclairage LED doux et moderne."
+     ],
+     "liste": [
+      "Une vaste pièce de vie lumineuse",
+      "Une grande cuisine aménagée semi-ouverte",
+      "Une belle baie vitrée donnant sur la terrasse",
+      "Un jardin agréable",
+      "Un garage semi-ouvert"
+     ]
+    },
+    {
+     "titre": "Il comprend",
+     "texte": [
+      "Cette villa séduit par sa luminosité naturelle, son atmosphère chaleureuse et son excellent standing.",
+      "Une opportunité rare à saisir pour un investissement ou une résidence principale à Djerba."
+     ],
+     "liste": [
+      "Deux chambres confortables",
+      "Une salle de bain commune",
+      "Une superbe suite parentale",
+      "Dressing intégré",
+      "Salle de bain privative"
+     ]
+    }
+   ],
+   "points_cles": [],
+   "agence": "Immo Soleil Djerba",
+   "telephones": [],
+   "rubriques": [
+    "acheter"
+   ],
+   "photos": [
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine5.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine1.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine2.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine3.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine4.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine6.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine7.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine12.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine8.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine9.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine10.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine11.webp"
+   ],
+   "nb_photos": 13,
+   "videos": [
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/Vent_Villa_Hachine.mp4"
+   ],
+   "url": "https://immosoleildjerba.com/produit/villa-moderne-a-vendre-a-houmt-souk-djerba-avec-garage-et-jardin/",
+   "autres_champs": {
+    "Quartier": "Houmt Souk"
+   },
+   "statut_annonce": null
+  },
+  {
+   "id": "3223",
+   "reference": "ISD3223",
+   "titre": "Villa meublée avec piscine à vendre à Tezdaine – Djerba",
+   "transaction": "Vente",
+   "disponibilite": "disponible",
+   "type_bien": "Maison / Villa",
+   "prix": 980000,
+   "prix_unite": null,
+   "devise": "TND",
+   "prix_texte": "د.ت 980.000",
+   "surface_habitable_m2": 450,
+   "surface_terrain_m2": 1000,
+   "surface_m2": 450,
+   "chambres": 3,
+   "suites": 1,
+   "sdb": null,
+   "pays": "Tunisie",
+   "gouvernorat": "Djerba",
+   "delegation": "Tezdaine",
+   "localite": "Tezdaine",
+   "adresse_complete": "Tezdaine, Djerba, Tunisie",
+   "description": "Découvrez cette magnifique villa située à Tezdaine, sur une route communicante avec la route du phare bowling, dans un environnement calme et agréable. Construite sur un vaste terrain de 1000 m², cette propriété de 450 m² est vendue entièrement meublée avec tous ses équipements de qualité. Cette propriété dispose également d’une demande de réquisition d’un titre foncier.",
+   "sections": [
+    {
+     "titre": null,
+     "texte": [
+      "Découvrez cette magnifique villa située à Tezdaine, sur une route communicante avec la route du phare bowling, dans un environnement calme et agréable.",
+      "Construite sur un vaste terrain de 1000 m², cette propriété de 450 m² est vendue entièrement meublée avec tous ses équipements de qualité."
+     ],
+     "liste": []
+    },
+    {
+     "titre": "La villa se compose de",
+     "texte": [],
+     "liste": [
+      "Une grande pièce de vie lumineuse",
+      "Une cuisine moderne avec plan de travail en quartz et ameublement haut de gamme",
+      "Une suite parentale en rez-de-chaussée avec accès direct à la terrasse",
+      "Deux chambres supplémentaires",
+      "Une salle de douche",
+      "Toilettes invités"
+     ]
+    },
+    {
+     "titre": "À l’étage, un studio indépendant comprenant",
+     "texte": [],
+     "liste": [
+      "Une chambre",
+      "Un séjour",
+      "Une kitchenette",
+      "Une grande terrasse avec vue dégagée sur les alentours"
+     ]
+    },
+    {
+     "titre": "À l’extérieur, vous profiterez de",
+     "texte": [
+      "Cette propriété dispose également d’une demande de réquisition d’un titre foncier."
+     ],
+     "liste": [
+      "Une belle piscine avec cascade",
+      "Douche et toilettes extérieures",
+      "Un débarras",
+      "Double garage de 50 m²",
+      "Un jardin gazonné avec arbres fruitiers"
+     ]
+    }
+   ],
+   "points_cles": [],
+   "agence": "Immo Soleil Djerba",
+   "telephones": [],
+   "rubriques": [
+    "acheter"
+   ],
+   "photos": [
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez6.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez1.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez3.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez4.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez5.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez7.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez8.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez9.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez10.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez11.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez12.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez13.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez14.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez15.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/06/VenteVilla_Tez16.webp"
+   ],
+   "nb_photos": 16,
+   "videos": [],
+   "url": "https://immosoleildjerba.com/produit/villa-meublee-avec-piscine-a-vendre-a-tezdaine-djerba/",
+   "autres_champs": {
+    "Quartier": "Tezdaine",
+    "Ameublement": "Meublé"
+   },
+   "statut_annonce": null
+  },
+  {
+   "id": "2675",
+   "reference": "ISD2675",
+   "titre": "Terrain à vendre à Tezdiane Djerba 200 DT/m²",
+   "transaction": "Vente",
+   "disponibilite": "disponible",
+   "type_bien": "Terrain",
+   "prix": 200,
+   "prix_unite": "m2",
+   "devise": "TND",
+   "prix_texte": "د.ت 200",
+   "surface_habitable_m2": null,
+   "surface_terrain_m2": null,
+   "surface_m2": null,
+   "chambres": null,
+   "suites": null,
+   "sdb": null,
+   "pays": "Tunisie",
+   "gouvernorat": "Djerba",
+   "delegation": "Tezdaine",
+   "localite": "Tezdaine",
+   "adresse_complete": "Tezdaine, Djerba, Tunisie",
+   "description": "Découvrez ce terrain situé à Tezdiane – Djerba, dans un emplacement stratégique proche de l’école et à seulement 300 mètres de la route principale. Ce terrain représente une excellente opportunité pour un projet d’habitation ou un investissement immobilier dans une zone calme et en développement. Le terrain est constructible et bénéficie d’un accès facile ainsi que d’un environnement agréable, idéal pour bâtir une maison ou un projet futur. Ce terrain représente une opportunité rare à Djerba, combinant emplacement, accessibilité et potentiel d’investissement.",
+   "sections": [
+    {
+     "titre": null,
+     "texte": [
+      "Découvrez ce terrain situé à Tezdiane – Djerba, dans un emplacement stratégique proche de l’école et à seulement 300 mètres de la route principale. Ce terrain représente une excellente opportunité pour un projet d’habitation ou un investissement immobilier dans une zone calme et en développement.",
+      "Le terrain est constructible et bénéficie d’un accès facile ainsi que d’un environnement agréable, idéal pour bâtir une maison ou un projet futur."
+     ],
+     "liste": [
+      "Terrain à vendre à Tezdiane – Djerba"
+     ]
+    },
+    {
+     "titre": "Caractéristiques",
+     "texte": [],
+     "liste": [
+      "Terrain constructible",
+      "Emplacement stratégique à Tezdiane – Djerba",
+      "Proche de l’école et de la route principale",
+      "Zone calme et en développement",
+      "Idéal pour habitation ou investissement"
+     ]
+    },
+    {
+     "titre": "Informations juridiques",
+     "texte": [],
+     "liste": [
+      "Terrain issu d’un héritage",
+      "Dossier juridique disponible",
+      "Permis de construire possible"
+     ]
+    },
+    {
+     "titre": "Prix",
+     "texte": [
+      "Ce terrain représente une opportunité rare à Djerba, combinant emplacement, accessibilité et potentiel d’investissement."
+     ],
+     "liste": [
+      "200 DT / m²"
+     ]
+    }
+   ],
+   "points_cles": [],
+   "agence": "Immo Soleil Djerba",
+   "telephones": [],
+   "rubriques": [
+    "acheter"
+   ],
+   "photos": [
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/Vent_Terr1.jpeg",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/Vent_Terr2.jpeg",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/Vent_Terr3.jpeg"
+   ],
+   "nb_photos": 3,
+   "videos": [],
+   "url": "https://immosoleildjerba.com/produit/terrain-a-vendre-a-tezdiane-djerba-200-dt-m%c2%b2/",
+   "autres_champs": {
+    "Quartier": "Tezdaine"
+   },
+   "statut_annonce": null
+  },
+  {
+   "id": "2633",
+   "reference": "ISD2633",
+   "titre": "Villa à vendre à Djerba – Sidi Jmour",
+   "transaction": "Vente",
+   "disponibilite": "disponible",
+   "type_bien": "Maison / Villa",
+   "prix": 570000,
+   "prix_unite": null,
+   "devise": "TND",
+   "prix_texte": "د.ت 570.000",
+   "surface_habitable_m2": null,
+   "surface_terrain_m2": 1000,
+   "surface_m2": 1000,
+   "chambres": null,
+   "suites": null,
+   "sdb": null,
+   "pays": "Tunisie",
+   "gouvernorat": "Djerba",
+   "delegation": "Sidi Jmour",
+   "localite": "Sidi Jmour",
+   "adresse_complete": "Sidi Jmour, Djerba, Tunisie",
+   "description": "À Djerba, dans un emplacement stratégique proche de l’aéroport et à quelques minutes de la plage de Sidi Jmour, découvrez cette villa construite sur un terrain de 1000 m². Cette propriété représente une excellente opportunité, que ce soit pour une résidence principale, une maison de vacances ou un investissement immobilier rentable à Djerba. Accessible aux Tunisiens et aux Algériens. Un bien rare situé dans un environnement calme, recherché et à fort potentiel.",
+   "sections": [
+    {
+     "titre": null,
+     "texte": [
+      "À Djerba, dans un emplacement stratégique proche de l’aéroport et à quelques minutes de la plage de Sidi Jmour, découvrez cette villa construite sur un terrain de 1000 m².",
+      "Cette propriété représente une excellente opportunité, que ce soit pour une résidence principale, une maison de vacances ou un investissement immobilier rentable à Djerba.",
+      "Accessible aux Tunisiens et aux Algériens.",
+      "Un bien rare situé dans un environnement calme, recherché et à fort potentiel."
+     ],
+     "liste": []
+    }
+   ],
+   "points_cles": [],
+   "agence": "Immo Soleil Djerba",
+   "telephones": [],
+   "rubriques": [
+    "acheter"
+   ],
+   "photos": [
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/VVD4.jpeg",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/VVD3.jpeg",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/VVD10.jpeg",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/VVD1.jpeg",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/VVD2.jpeg",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/VVD5.jpeg",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/VVD6.jpeg",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/VVD7.jpeg",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/VVD8.jpeg",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/VVD9.jpeg"
+   ],
+   "nb_photos": 10,
+   "videos": [],
+   "url": "https://immosoleildjerba.com/produit/villa-a-vendre-a-djerba-opportunite-rare/",
+   "autres_champs": {
+    "Quartier": "Sidi Jmour"
+   },
+   "statut_annonce": null
+  },
+  {
+   "id": "2403",
+   "reference": "ISD2403",
+   "titre": "Villa avec piscine à Tezdaine, Djerba",
+   "transaction": "Vente",
+   "disponibilite": "disponible",
+   "type_bien": "Maison / Villa",
+   "prix": 630000,
+   "prix_unite": null,
+   "devise": "TND",
+   "prix_texte": "د.ت 630.000",
+   "surface_habitable_m2": 220,
+   "surface_terrain_m2": 676,
+   "surface_m2": 220,
+   "chambres": 4,
+   "suites": null,
+   "sdb": null,
+   "pays": "Tunisie",
+   "gouvernorat": "Djerba",
+   "delegation": "Tezdaine",
+   "localite": "Tezdaine",
+   "adresse_complete": "Tezdaine, Djerba, Tunisie",
+   "description": "Offrez-vous un cadre de vie paisible et élégant dans l’un des quartiers les plus recherchés de Tezdaine. Cette magnifique villa allie confort, espace et authenticité, idéale pour une résidence familiale ou un investissement de prestige. Emplacement stratégique à seulement 2 km de la plage. Papier en règle chez Maître Ben Terdayet.",
+   "sections": [
+    {
+     "titre": null,
+     "texte": [
+      "Offrez-vous un cadre de vie paisible et élégant dans l’un des quartiers les plus recherchés de Tezdaine. Cette magnifique villa allie confort, espace et authenticité, idéale pour une résidence familiale ou un investissement de prestige."
+     ],
+     "liste": [
+      "Villa de charme à vendre à Tezdaine — À seulement 2 km de la plage"
+     ]
+    },
+    {
+     "titre": "Caractéristiques",
+     "texte": [
+      "Emplacement stratégique à seulement 2 km de la plage.",
+      "Papier en règle chez Maître Ben Terdayet."
+     ],
+     "liste": [
+      "220 m² couverts",
+      "676 m² de terrain",
+      "80 m² de parking",
+      "4 chambres dont une superbe suite parentale",
+      "Salle de bain moderne",
+      "Piscine naturelle avec cascade pour une ambiance unique et relaxante",
+      "Jardin et espaces extérieurs agréables"
+     ]
+    }
+   ],
+   "points_cles": [],
+   "agence": "Immo Soleil Djerba",
+   "telephones": [],
+   "rubriques": [
+    "acheter"
+   ],
+   "photos": [
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-a-Tezdaine1.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-a-Tezdaine3.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-a-Tezdaine10.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-a-Tezdaine2.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-a-Tezdaine6.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-a-Tezdaine.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-a-Tezdaine4.webp",
+    "https://immosoleildjerba.com/wp-content/uploads/2026/05/Villa-a-Tezdaine65.webp"
+   ],
+   "nb_photos": 8,
+   "videos": [],
+   "url": "https://immosoleildjerba.com/produit/villa-jasmin-villa-avec-piscine-a-tezdaine-djerba/",
+   "autres_champs": {
+    "Quartier": "Tezdaine"
+   },
+   "statut_annonce": null
+  }
+ ]
+}

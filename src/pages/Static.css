@@ -1,0 +1,13 @@
+.st-two { display: grid; grid-template-columns: 1fr 1fr; gap: 48px; align-items: start; }
+.st-zones li { display: flex; justify-content: space-between; padding: 12px 0; border-bottom: 1px solid var(--line); font-weight: 500; }
+.st-zones a:hover { color: var(--blue); }
+.st-contacts li { display: flex; align-items: center; gap: 12px; padding: 10px 0; font-size: 16px; font-weight: 500; }
+.st-contacts svg { color: var(--blue); }
+.st-form { padding: 28px; display: flex; flex-direction: column; gap: 10px; }
+.st-form .h-card { margin-bottom: 8px; }
+.st-sent { text-align: center; padding: 32px 0; display: flex; flex-direction: column; align-items: center; gap: 10px; color: var(--gold-dark); }
+.st-sent .h-card { color: var(--ink); }
+.st-steps li { display: flex; gap: 16px; padding: 14px 0; border-bottom: 1px solid var(--line); }
+.st-step-n { width: 36px; height: 36px; flex: none; border-radius: var(--radius-sm); background: var(--navy); color: #fff; display: inline-flex; align-items: center; justify-content: center; font-weight: 500; font-family: var(--font-display); font-size: 17px; }
+.st-article { padding: 26px; display: flex; flex-direction: column; align-items: flex-start; }
+@media (max-width: 900px) { .st-two { grid-template-columns: 1fr; gap: 32px; } }

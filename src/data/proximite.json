@@ -1,0 +1,486 @@
+{
+ "Beni Maaguel|Beni Maaguel": {
+  "lat": 33.75891,
+  "lng": 10.95158,
+  "precise": true,
+  "places": {}
+ },
+ "Chbabya|Chbabya": {
+  "lat": 33.7736,
+  "lng": 10.88619,
+  "precise": false,
+  "places": {}
+ },
+ "Houmt Souk|Houmt Souk": {
+  "lat": 33.87599,
+  "lng": 10.85715,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Patisserie Amira",
+     "kind": "Boulangerie",
+     "m": 60
+    },
+    {
+     "name": "Carrefour Express",
+     "kind": "Épicerie",
+     "m": 216
+    },
+    {
+     "name": "Monoprix",
+     "kind": "Épicerie",
+     "m": 374
+    },
+    {
+     "name": "فواكه الشهوة - شحن إلكتروني",
+     "kind": "Épicerie",
+     "m": 431
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "Lycée Ibn Arafa",
+     "kind": "École",
+     "m": 271
+    },
+    {
+     "name": "École Primaire Moufida Bourguiba",
+     "kind": "École",
+     "m": 686
+    },
+    {
+     "name": "École hôtelière de Djerba",
+     "kind": "École",
+     "m": 752
+    },
+    {
+     "name": "Lycée Secondaire Houmt Souk",
+     "kind": "École",
+     "m": 1032
+    }
+   ],
+   "sante": [
+    {
+     "name": "Pharmacie Denguir",
+     "kind": "Pharmacie",
+     "m": 85
+    },
+    {
+     "name": "مجمع الأليزي الطبي",
+     "kind": "Clinique",
+     "m": 166
+    },
+    {
+     "name": "Centre Médical Ulysse",
+     "kind": "Cabinet médical",
+     "m": 201
+    },
+    {
+     "name": "عيادة الدكتور محفوظ البرجي للمسالك",
+     "kind": "Cabinet médical",
+     "m": 346
+    }
+   ],
+   "transports": [
+    {
+     "name": "Gare routière de Houmt Souk",
+     "kind": "Gare",
+     "m": 413
+    },
+    {
+     "name": "حومة السوق",
+     "kind": "Gare",
+     "m": 440
+    },
+    {
+     "name": "Houmt Souk",
+     "kind": "Gare",
+     "m": 1340
+    }
+   ],
+   "hotels": [
+    {
+     "name": "Sindbad",
+     "kind": "Hôtel",
+     "m": 93
+    },
+    {
+     "name": "Hôtel Erriadh",
+     "kind": "Hôtel",
+     "m": 184
+    },
+    {
+     "name": "Dar Lola",
+     "kind": "Hôtel",
+     "m": 190
+    },
+    {
+     "name": "Arisha",
+     "kind": "Hôtel",
+     "m": 213
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Place Mongi Bali",
+     "kind": "Parc",
+     "m": 42
+    },
+    {
+     "name": "Ben Yedder",
+     "kind": "Café",
+     "m": 105
+    },
+    {
+     "name": "Café Le Garage",
+     "kind": "Café",
+     "m": 137
+    },
+    {
+     "name": "Café Ben Daamech",
+     "kind": "Café",
+     "m": 155
+    }
+   ]
+  }
+ },
+ "Khazroun|Khazroun": {
+  "lat": 33.81525,
+  "lng": 10.96471,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Géant",
+     "kind": "Supermarché",
+     "m": 624
+    },
+    {
+     "name": "Bourgo Mall",
+     "kind": "Centre commercial",
+     "m": 643
+    },
+    {
+     "name": "Charawandi",
+     "kind": "Boulangerie",
+     "m": 2293
+    },
+    {
+     "name": "Carrefour Express",
+     "kind": "Supermarché",
+     "m": 2583
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "ISET Djerba",
+     "kind": "Université",
+     "m": 867
+    },
+    {
+     "name": "iset midoun jerba",
+     "kind": "Université",
+     "m": 886
+    },
+    {
+     "name": "École Primaire d'El Gayed",
+     "kind": "École",
+     "m": 1654
+    },
+    {
+     "name": "École Primaire 27 octobre",
+     "kind": "École",
+     "m": 2212
+    }
+   ],
+   "sante": [
+    {
+     "name": "Hôpital",
+     "kind": "Hôpital",
+     "m": 2481
+    }
+   ],
+   "transports": [
+    {
+     "name": "Station de Louage",
+     "kind": "Gare",
+     "m": 2442
+    }
+   ],
+   "hotels": [
+    {
+     "name": "Maison Leila",
+     "kind": "Hôtel",
+     "m": 1158
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Chichkhan",
+     "kind": "Café",
+     "m": 550
+    },
+    {
+     "name": "Gourmandise",
+     "kind": "Café",
+     "m": 649
+    },
+    {
+     "name": "MLM COFFEE",
+     "kind": "Café",
+     "m": 1322
+    },
+    {
+     "name": "café sultan",
+     "kind": "Café",
+     "m": 1433
+    }
+   ]
+  }
+ },
+ "La Lagune|La Lagune": {
+  "lat": 33.78858,
+  "lng": 11.05847,
+  "precise": true,
+  "places": {
+   "hotels": [
+    {
+     "name": "Plage Essaguia Djerba",
+     "kind": "Hôtel",
+     "m": 352
+    },
+    {
+     "name": "El Mouradi Djerba Menzel",
+     "kind": "Hôtel",
+     "m": 994
+    },
+    {
+     "name": "Dar Lagune",
+     "kind": "Maison d'hôtes",
+     "m": 1152
+    },
+    {
+     "name": "Royal Karthago Resort & Thalasso Djerba",
+     "kind": "Hôtel",
+     "m": 1968
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "La Lagune",
+     "kind": "Restaurant",
+     "m": 0
+    },
+    {
+     "name": "Seguia Plage",
+     "kind": "Plage",
+     "m": 119
+    },
+    {
+     "name": "Plage de la Seguia",
+     "kind": "Plage",
+     "m": 241
+    },
+    {
+     "name": "Lalla Hadria",
+     "kind": "Plage",
+     "m": 813
+    }
+   ]
+  }
+ },
+ "Midoun|Midoun": {
+  "lat": 33.82456,
+  "lng": 11.00692,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "التسوق الملكي",
+     "kind": "Centre commercial",
+     "m": 2164
+    },
+    {
+     "name": "Carrefour Express",
+     "kind": "Supermarché",
+     "m": 2194
+    },
+    {
+     "name": "Chez Lotfi",
+     "kind": "Épicerie",
+     "m": 2291
+    },
+    {
+     "name": "Carrefour",
+     "kind": "Supermarché",
+     "m": 2534
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "École Primaire Sidi Yati",
+     "kind": "École",
+     "m": 1340
+    },
+    {
+     "name": "École Primaire 27 octobre",
+     "kind": "École",
+     "m": 1835
+    },
+    {
+     "name": "École Primaire 2. Mars",
+     "kind": "École",
+     "m": 2397
+    }
+   ],
+   "sante": [
+    {
+     "name": "Hôpital",
+     "kind": "Hôpital",
+     "m": 1907
+    }
+   ],
+   "transports": [
+    {
+     "name": "Station de Louage",
+     "kind": "Gare",
+     "m": 2191
+    }
+   ],
+   "hotels": [
+    {
+     "name": "Dar Gaia",
+     "kind": "Résidence hôtelière",
+     "m": 740
+    },
+    {
+     "name": "Djerba Plaza Thalasso & Spa",
+     "kind": "Hôtel",
+     "m": 804
+    },
+    {
+     "name": "Hôtel Yadis Djerba Golf Thalasso & Spa",
+     "kind": "Hôtel",
+     "m": 883
+    },
+    {
+     "name": "SunConnect Aqua Resort",
+     "kind": "Hôtel",
+     "m": 958
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Hotel Djerba Plaza",
+     "kind": "Restaurant",
+     "m": 837
+    },
+    {
+     "name": "Café Guermesi",
+     "kind": "Café",
+     "m": 1163
+    },
+    {
+     "name": "El Majless - Oriental Lounge",
+     "kind": "Café",
+     "m": 1421
+    },
+    {
+     "name": "ليدي جم جربة",
+     "kind": "Salle de sport",
+     "m": 1696
+    }
+   ]
+  }
+ },
+ "Sidi Jmour|Sidi Jmour": {
+  "lat": 33.84086,
+  "lng": 10.75145,
+  "precise": true,
+  "places": {
+   "loisirs": [
+    {
+     "name": "Sidi Jmour",
+     "kind": "Plage",
+     "m": 701
+    },
+    {
+     "name": "سيدي جمور",
+     "kind": "Plage",
+     "m": 852
+    },
+    {
+     "name": "Le Petit Marin",
+     "kind": "Restaurant",
+     "m": 869
+    }
+   ]
+  }
+ },
+ "Tezdaine|Tezdaine": {
+  "lat": 33.80088,
+  "lng": 11.03216,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Chez Lotfi",
+     "kind": "Épicerie",
+     "m": 1226
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "École Primaire Sidi Yati",
+     "kind": "École",
+     "m": 2178
+    }
+   ],
+   "hotels": [
+    {
+     "name": "Dar Lagune",
+     "kind": "Maison d'hôtes",
+     "m": 1644
+    },
+    {
+     "name": "Royal Karthago Resort & Thalasso Djerba",
+     "kind": "Hôtel",
+     "m": 2635
+    },
+    {
+     "name": "Menzel Dija",
+     "kind": "Hôtel",
+     "m": 2723
+    },
+    {
+     "name": "Vincci Helios Beach",
+     "kind": "Hôtel",
+     "m": 2729
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Touareg - Salon de Thè",
+     "kind": "Café",
+     "m": 1293
+    },
+    {
+     "name": "Maasret Jdoud",
+     "kind": "Café",
+     "m": 1875
+    },
+    {
+     "name": "Sidi Yati II (Lalla Hadria)",
+     "kind": "Plage",
+     "m": 2338
+    },
+    {
+     "name": "Tipaza Beach",
+     "kind": "Restaurant",
+     "m": 2405
+    }
+   ]
+  }
+ }
+}
